@@ -1,0 +1,1204 @@
+id	name	email	degree	grad_year	engagement_score	notes
+1	Amit Sharma	amit@example.com	MBA	2012	0.9	donated in past, attends reunions
+2	Neha Verma	neha@example.com	BSc	2010	0.6	mentoring students, active alumni
+3	Raj Patel	raj@example.com	PhD	2015	0.3	no past donations
+4	Sonia Mishra	sonia.mishra4@example.com	BTech	2010	0.61	volunteers for alumni programs
+5	Neha Agarwal	neha.agarwal5@example.com	LLB	2009	0.88	inactive since graduation
+6	Rohit Mishra	rohit.mishra6@example.com	PhD	2004	0.89	mentoring students, active alumni
+7	Pooja Sharma	pooja.sharma7@example.com	PhD	2000	0.62	attended 10-year reunion
+8	Sonia Chopra	sonia.chopra8@example.com	BTech	2020	0.37	mentoring students, active alumni
+9	Arjun Verma	arjun.verma9@example.com	BSc	2002	0.5	donated in past, attends reunions
+10	Raj Patel	raj.patel10@example.com	MA	2003	0.54	frequent event attendee
+11	Sneha Khanna	sneha.khanna11@example.com	BSc	2021	0.94	career mentor
+12	Anita Nair	anita.nair12@example.com	LLB	2012	0.99	no past donations
+13	Manish Reddy	manish.reddy13@example.com	BTech	2007	0.46	regular donor
+14	Raj Pillai	raj.pillai14@example.com	LLB	2005	0.97	mentoring students, active alumni
+15	Nikhil Desai	nikhil.desai15@example.com	BSc	2011	0.46	mentoring students, active alumni
+16	Kiran Reddy	kiran.reddy16@example.com	MTech	2017	0.63	donated in past, attends reunions
+17	Nikhil Desai	nikhil.desai17@example.com	LLB	2000	0.91	occasionally donates
+18	Neha Agarwal	neha.agarwal18@example.com	MTech	2008	0.29	regular donor
+19	Komal Nair	komal.nair19@example.com	PhD	2011	0.12	no past donations
+20	Meera Gupta	meera.gupta20@example.com	MBA	2023	0.68	career mentor
+21	Vikram Malhotra	vikram.malhotra21@example.com	MSc	2004	0.34	mentoring students, active alumni
+22	Rohit Malhotra	rohit.malhotra22@example.com	MBA	2007	0.83	career mentor
+23	Anita Mishra	anita.mishra23@example.com	MBA	2016	0.36	attended 10-year reunion
+24	Komal Kaur	komal.kaur24@example.com	MTech	2014	0.6	volunteers for alumni programs
+25	Nikhil Iyer	nikhil.iyer25@example.com	BTech	2006	0.81	frequent event attendee
+26	Pooja Reddy	pooja.reddy26@example.com	CA	2004	0.73	no past donations
+27	Neha Jain	neha.jain27@example.com	LLB	2008	0.98	attended 10-year reunion
+28	Varun Jain	varun.jain28@example.com	MBA	2020	0.95	mentoring students, active alumni
+29	Arjun Desai	arjun.desai29@example.com	MSc	2000	0.61	inactive since graduation
+30	Kiran Khanna	kiran.khanna30@example.com	PhD	2002	0.15	volunteers for alumni programs
+31	Priya Singh	priya.singh31@example.com	MSc	2024	0.53	no past donations
+32	Sunil Reddy	sunil.reddy32@example.com	MA	2016	0.33	attended 10-year reunion
+33	Meera Malhotra	meera.malhotra33@example.com	MSc	2020	0.41	occasionally donates
+34	Rohit Iyer	rohit.iyer34@example.com	BTech	2024	0.75	no past donations
+35	Nikhil Verma	nikhil.verma35@example.com	BSc	2016	0.83	no past donations
+36	Neha Singh	neha.singh36@example.com	MBA	2021	0.08	donated in past, attends reunions
+37	Manish Mishra	manish.mishra37@example.com	MBA	2017	0.39	no past donations
+38	Sunil Gupta	sunil.gupta38@example.com	MBA	2022	0.39	mentoring students, active alumni
+39	Deepak Das	deepak.das39@example.com	CA	2017	0	attended 10-year reunion
+40	Amit Bose	amit.bose40@example.com	MBA	2010	0.08	frequent event attendee
+41	Meera Singh	meera.singh41@example.com	PhD	2022	0.56	volunteers for alumni programs
+42	Rohit Bose	rohit.bose42@example.com	BTech	2007	0.51	inactive since graduation
+43	Komal Bose	komal.bose43@example.com	MSc	2011	0.39	regular donor
+44	Ravi Mishra	ravi.mishra44@example.com	LLB	2022	0.53	donated in past, attends reunions
+45	Priya Kaur	priya.kaur45@example.com	BTech	2004	0.57	donated in past, attends reunions
+46	Ravi Kaur	ravi.kaur46@example.com	MBA	2003	0.5	frequent event attendee
+47	Varun Khanna	varun.khanna47@example.com	BA	2003	0.92	mentoring students, active alumni
+48	Anita Malhotra	anita.malhotra48@example.com	BTech	2020	0.98	donated in past, attends reunions
+49	Amit Desai	amit.desai49@example.com	PhD	2018	0.95	attended 10-year reunion
+50	Anita Gupta	anita.gupta50@example.com	CA	2024	0.75	attended 10-year reunion
+51	Neha Nair	neha.nair51@example.com	BA	2022	0.1	frequent event attendee
+52	Sneha Malhotra	sneha.malhotra52@example.com	MTech	2012	0.78	regular donor
+53	Komal Bose	komal.bose53@example.com	PhD	2005	0.29	mentoring students, active alumni
+54	Sunil Mishra	sunil.mishra54@example.com	MTech	2006	0.87	inactive since graduation
+55	Pooja Pillai	pooja.pillai55@example.com	MTech	2001	0.79	occasionally donates
+56	Neha Jain	neha.jain56@example.com	BTech	2017	0.31	occasionally donates
+57	Neha Reddy	neha.reddy57@example.com	BTech	2016	0.12	mentoring students, active alumni
+58	Pooja Patel	pooja.patel58@example.com	BSc	2008	0.75	regular donor
+59	Nikhil Verma	nikhil.verma59@example.com	MBA	2014	0.35	donated in past, attends reunions
+60	Varun Kaur	varun.kaur60@example.com	MBA	2002	0.64	frequent event attendee
+61	Komal Mehta	komal.mehta61@example.com	PhD	2020	0.16	attended 10-year reunion
+62	Anita Iyer	anita.iyer62@example.com	LLB	2006	0.96	mentoring students, active alumni
+63	Manish Nair	manish.nair63@example.com	PhD	2010	0.98	attended 10-year reunion
+64	Amit Chopra	amit.chopra64@example.com	BSc	2014	0.12	attended 10-year reunion
+65	Varun Mehta	varun.mehta65@example.com	BA	2002	0.31	inactive since graduation
+66	Sneha Jain	sneha.jain66@example.com	MTech	2008	0.97	inactive since graduation
+67	Sunil Khanna	sunil.khanna67@example.com	MTech	2000	0.4	volunteers for alumni programs
+68	Sunil Patel	sunil.patel68@example.com	MTech	2000	0.82	no past donations
+69	Pooja Reddy	pooja.reddy69@example.com	PhD	2004	0.35	volunteers for alumni programs
+70	Neha Iyer	neha.iyer70@example.com	BA	2019	0.21	attended 10-year reunion
+71	Rohit Sharma	rohit.sharma71@example.com	BTech	2000	0.51	inactive since graduation
+72	Anita Iyer	anita.iyer72@example.com	BSc	2002	0.4	frequent event attendee
+73	Kiran Das	kiran.das73@example.com	LLB	2002	0.29	frequent event attendee
+74	Arjun Mishra	arjun.mishra74@example.com	PhD	2023	0.61	mentoring students, active alumni
+75	Anita Singh	anita.singh75@example.com	MTech	2003	0.2	frequent event attendee
+76	Anita Gupta	anita.gupta76@example.com	MBA	2000	0.97	frequent event attendee
+77	Neha Mehta	neha.mehta77@example.com	BTech	2004	0.37	occasionally donates
+78	Komal Kaur	komal.kaur78@example.com	MTech	2022	0.96	mentoring students, active alumni
+79	Sunil Desai	sunil.desai79@example.com	PhD	2007	0.2	frequent event attendee
+80	Komal Bose	komal.bose80@example.com	MSc	2015	0.1	regular donor
+81	Meera Das	meera.das81@example.com	BSc	2006	0.82	no past donations
+82	Sonia Mishra	sonia.mishra82@example.com	MA	2012	0.99	volunteers for alumni programs
+83	Nikhil Chopra	nikhil.chopra83@example.com	MBA	2024	0.99	frequent event attendee
+84	Komal Malhotra	komal.malhotra84@example.com	MTech	2003	0.08	mentoring students, active alumni
+85	Deepak Agarwal	deepak.agarwal85@example.com	BA	2022	0.91	career mentor
+86	Ravi Nair	ravi.nair86@example.com	MSc	2006	0.37	frequent event attendee
+87	Deepak Reddy	deepak.reddy87@example.com	MBA	2006	0.26	volunteers for alumni programs
+88	Rohit Khanna	rohit.khanna88@example.com	BA	2021	0.72	occasionally donates
+89	Komal Patel	komal.patel89@example.com	PhD	2001	0.59	career mentor
+90	Anita Chopra	anita.chopra90@example.com	MTech	2015	0.65	regular donor
+91	Kiran Agarwal	kiran.agarwal91@example.com	MTech	2015	0.9	volunteers for alumni programs
+92	Sneha Das	sneha.das92@example.com	BTech	2006	0.05	inactive since graduation
+93	Sonia Nair	sonia.nair93@example.com	LLB	2011	0.92	inactive since graduation
+94	Varun Malhotra	varun.malhotra94@example.com	MSc	2010	0.09	inactive since graduation
+95	Vikram Pillai	vikram.pillai95@example.com	BTech	2015	0.56	regular donor
+96	Sonia Bose	sonia.bose96@example.com	PhD	2002	0.68	frequent event attendee
+97	Rohit Agarwal	rohit.agarwal97@example.com	BTech	2018	0.81	career mentor
+98	Meera Desai	meera.desai98@example.com	MTech	2024	0.46	frequent event attendee
+99	Manish Mehta	manish.mehta99@example.com	PhD	2001	0.94	occasionally donates
+100	Kiran Nair	kiran.nair100@example.com	MTech	2024	0.33	regular donor
+101	Arjun Sharma	arjun.sharma101@example.com	MSc	2004	0.9	volunteers for alumni programs
+102	Kiran Khanna	kiran.khanna102@example.com	MA	2024	0.79	occasionally donates
+103	Priya Jain	priya.jain103@example.com	MTech	2009	0.18	career mentor
+104	Rohit Sharma	rohit.sharma104@example.com	BSc	2017	0.24	inactive since graduation
+105	Varun Chopra	varun.chopra105@example.com	CA	2019	0.37	career mentor
+106	Rohit Sharma	rohit.sharma106@example.com	LLB	2011	0.3	donated in past, attends reunions
+107	Arjun Das	arjun.das107@example.com	MSc	2010	0.96	mentoring students, active alumni
+108	Ravi Pillai	ravi.pillai108@example.com	BA	2019	0.68	frequent event attendee
+109	Vikram Verma	vikram.verma109@example.com	BSc	2006	0.67	career mentor
+110	Sonia Mehta	sonia.mehta110@example.com	MTech	2023	0.29	occasionally donates
+111	Sunil Pillai	sunil.pillai111@example.com	MA	2002	0.95	no past donations
+112	Kiran Gupta	kiran.gupta112@example.com	BSc	2013	0.4	inactive since graduation
+113	Sunil Das	sunil.das113@example.com	PhD	2022	0.07	volunteers for alumni programs
+114	Komal Pillai	komal.pillai114@example.com	MA	2003	0.1	frequent event attendee
+115	Sonia Nair	sonia.nair115@example.com	BTech	2015	0.79	mentoring students, active alumni
+116	Deepak Das	deepak.das116@example.com	LLB	2009	0.32	occasionally donates
+117	Komal Kaur	komal.kaur117@example.com	MBA	2001	0.12	no past donations
+118	Nikhil Chopra	nikhil.chopra118@example.com	BSc	2001	0.19	volunteers for alumni programs
+119	Anita Mehta	anita.mehta119@example.com	BSc	2020	0.41	attended 10-year reunion
+120	Ravi Reddy	ravi.reddy120@example.com	MA	2003	0.23	frequent event attendee
+121	Pooja Mehta	pooja.mehta121@example.com	BA	2008	0.64	no past donations
+122	Pooja Jain	pooja.jain122@example.com	MA	2001	0.98	no past donations
+123	Varun Singh	varun.singh123@example.com	CA	2010	0.89	volunteers for alumni programs
+124	Varun Agarwal	varun.agarwal124@example.com	MA	2000	0.43	mentoring students, active alumni
+125	Varun Mishra	varun.mishra125@example.com	MSc	2021	0.43	inactive since graduation
+126	Rohit Desai	rohit.desai126@example.com	CA	2000	0.54	regular donor
+127	Sonia Kaur	sonia.kaur127@example.com	MTech	2001	0.28	mentoring students, active alumni
+128	Sneha Sharma	sneha.sharma128@example.com	CA	2021	0.28	inactive since graduation
+129	Raj Malhotra	raj.malhotra129@example.com	PhD	2022	0.64	volunteers for alumni programs
+130	Deepak Jain	deepak.jain130@example.com	MTech	2021	0.6	attended 10-year reunion
+131	Ravi Agarwal	ravi.agarwal131@example.com	CA	2003	0.19	frequent event attendee
+132	Manish Chopra	manish.chopra132@example.com	BSc	2010	0.91	mentoring students, active alumni
+133	Priya Kaur	priya.kaur133@example.com	MTech	2022	0.91	no past donations
+134	Arjun Agarwal	arjun.agarwal134@example.com	CA	2009	0.55	no past donations
+135	Sunil Malhotra	sunil.malhotra135@example.com	MTech	2006	0.92	attended 10-year reunion
+136	Rohit Singh	rohit.singh136@example.com	MBA	2000	0.16	frequent event attendee
+137	Rohit Agarwal	rohit.agarwal137@example.com	MA	2011	0.64	mentoring students, active alumni
+138	Sunil Chopra	sunil.chopra138@example.com	LLB	2009	0.65	inactive since graduation
+139	Ravi Mehta	ravi.mehta139@example.com	MA	2012	0.26	regular donor
+140	Varun Pillai	varun.pillai140@example.com	BTech	2017	0.27	volunteers for alumni programs
+141	Kiran Pillai	kiran.pillai141@example.com	BTech	2019	0.01	attended 10-year reunion
+142	Amit Mehta	amit.mehta142@example.com	MBA	2005	0.16	donated in past, attends reunions
+143	Amit Bose	amit.bose143@example.com	MTech	2020	0.3	mentoring students, active alumni
+144	Rohit Sharma	rohit.sharma144@example.com	LLB	2007	0.95	career mentor
+145	Ravi Patel	ravi.patel145@example.com	LLB	2014	0.06	occasionally donates
+146	Varun Gupta	varun.gupta146@example.com	MSc	2022	0.21	no past donations
+147	Sonia Chopra	sonia.chopra147@example.com	MBA	2001	0.74	inactive since graduation
+148	Sneha Malhotra	sneha.malhotra148@example.com	MBA	2019	0.63	inactive since graduation
+149	Sonia Desai	sonia.desai149@example.com	CA	2014	0.04	mentoring students, active alumni
+150	Sunil Jain	sunil.jain150@example.com	MA	2023	0.25	career mentor
+151	Neha Mehta	neha.mehta151@example.com	MTech	2014	0.6	volunteers for alumni programs
+152	Rohit Verma	rohit.verma152@example.com	LLB	2017	0.6	career mentor
+153	Rohit Desai	rohit.desai153@example.com	CA	2000	0.38	attended 10-year reunion
+154	Arjun Kaur	arjun.kaur154@example.com	MSc	2024	0.55	donated in past, attends reunions
+155	Neha Reddy	neha.reddy155@example.com	CA	2018	0.33	volunteers for alumni programs
+156	Pooja Das	pooja.das156@example.com	BSc	2010	0.91	mentoring students, active alumni
+157	Sonia Pillai	sonia.pillai157@example.com	MTech	2024	0.45	career mentor
+158	Neha Malhotra	neha.malhotra158@example.com	CA	2022	0.07	volunteers for alumni programs
+159	Meera Reddy	meera.reddy159@example.com	PhD	2002	0.03	regular donor
+160	Anita Desai	anita.desai160@example.com	BA	2005	0.71	attended 10-year reunion
+161	Ravi Malhotra	ravi.malhotra161@example.com	PhD	2024	0.41	frequent event attendee
+162	Deepak Malhotra	deepak.malhotra162@example.com	MSc	2001	0.67	inactive since graduation
+163	Rohit Gupta	rohit.gupta163@example.com	MA	2018	0.24	frequent event attendee
+164	Manish Chopra	manish.chopra164@example.com	PhD	2022	0.81	regular donor
+165	Pooja Singh	pooja.singh165@example.com	MSc	2006	0.49	mentoring students, active alumni
+166	Sneha Singh	sneha.singh166@example.com	MBA	2008	0.43	occasionally donates
+167	Anita Pillai	anita.pillai167@example.com	CA	2022	0.4	donated in past, attends reunions
+168	Varun Verma	varun.verma168@example.com	BA	2003	0.66	no past donations
+169	Amit Sharma	amit.sharma169@example.com	MBA	2020	0.74	occasionally donates
+170	Deepak Desai	deepak.desai170@example.com	MBA	2019	0.98	career mentor
+171	Sonia Khanna	sonia.khanna171@example.com	MBA	2007	0.78	mentoring students, active alumni
+172	Sunil Das	sunil.das172@example.com	BSc	2022	0.44	no past donations
+173	Arjun Kaur	arjun.kaur173@example.com	PhD	2015	0.45	no past donations
+174	Raj Desai	raj.desai174@example.com	MTech	2005	0.52	mentoring students, active alumni
+175	Raj Malhotra	raj.malhotra175@example.com	BSc	2005	0.59	occasionally donates
+176	Kiran Malhotra	kiran.malhotra176@example.com	BSc	2011	0.43	career mentor
+177	Amit Gupta	amit.gupta177@example.com	CA	2010	0.96	donated in past, attends reunions
+178	Amit Khanna	amit.khanna178@example.com	MA	2012	0.76	career mentor
+179	Nikhil Agarwal	nikhil.agarwal179@example.com	MBA	2018	0.86	regular donor
+180	Sneha Iyer	sneha.iyer180@example.com	CA	2018	0.04	frequent event attendee
+181	Raj Mishra	raj.mishra181@example.com	BA	2024	0.61	frequent event attendee
+182	Manish Iyer	manish.iyer182@example.com	BA	2007	0.09	mentoring students, active alumni
+183	Ravi Chopra	ravi.chopra183@example.com	BTech	2008	0.17	frequent event attendee
+184	Raj Chopra	raj.chopra184@example.com	CA	2011	0.4	mentoring students, active alumni
+185	Raj Patel	raj.patel185@example.com	MBA	2012	0.6	mentoring students, active alumni
+186	Anita Desai	anita.desai186@example.com	MA	2013	0.2	mentoring students, active alumni
+187	Manish Patel	manish.patel187@example.com	MSc	2013	0.58	attended 10-year reunion
+188	Sonia Mehta	sonia.mehta188@example.com	MTech	2011	0.9	mentoring students, active alumni
+189	Priya Jain	priya.jain189@example.com	CA	2004	0.68	regular donor
+190	Sonia Sharma	sonia.sharma190@example.com	PhD	2024	0.51	occasionally donates
+191	Pooja Khanna	pooja.khanna191@example.com	CA	2016	0.79	mentoring students, active alumni
+192	Arjun Verma	arjun.verma192@example.com	BSc	2010	0.41	mentoring students, active alumni
+193	Deepak Desai	deepak.desai193@example.com	MTech	2004	0.3	career mentor
+194	Sneha Kaur	sneha.kaur194@example.com	MBA	2008	0.22	career mentor
+195	Neha Iyer	neha.iyer195@example.com	PhD	2015	0.49	regular donor
+196	Sonia Nair	sonia.nair196@example.com	BSc	2015	0.98	regular donor
+197	Meera Iyer	meera.iyer197@example.com	CA	2012	0.1	inactive since graduation
+198	Kiran Reddy	kiran.reddy198@example.com	BSc	2022	0.96	frequent event attendee
+199	Raj Desai	raj.desai199@example.com	MSc	2024	0.53	donated in past, attends reunions
+200	Neha Gupta	neha.gupta200@example.com	MSc	2000	0.71	career mentor
+201	Rohit Desai	rohit.desai201@example.com	MBA	2016	0.29	donated in past, attends reunions
+202	Sunil Das	sunil.das202@example.com	MBA	2014	0	inactive since graduation
+203	Varun Verma	varun.verma203@example.com	BA	2006	0.44	mentoring students, active alumni
+204	Neha Sharma	neha.sharma204@example.com	BA	2024	0.56	inactive since graduation
+205	Rohit Kaur	rohit.kaur205@example.com	PhD	2009	0.4	frequent event attendee
+206	Sunil Patel	sunil.patel206@example.com	BTech	2002	0.84	regular donor
+207	Manish Kaur	manish.kaur207@example.com	BA	2020	0.54	donated in past, attends reunions
+208	Varun Iyer	varun.iyer208@example.com	BTech	2020	0.74	occasionally donates
+209	Amit Agarwal	amit.agarwal209@example.com	PhD	2007	0.09	donated in past, attends reunions
+210	Vikram Reddy	vikram.reddy210@example.com	BA	2011	0.69	regular donor
+211	Vikram Singh	vikram.singh211@example.com	MA	2014	0.84	mentoring students, active alumni
+212	Amit Pillai	amit.pillai212@example.com	BTech	2024	0.98	volunteers for alumni programs
+213	Arjun Reddy	arjun.reddy213@example.com	PhD	2005	0.76	regular donor
+214	Deepak Reddy	deepak.reddy214@example.com	MBA	2013	0.39	frequent event attendee
+215	Deepak Singh	deepak.singh215@example.com	MA	2010	0.44	occasionally donates
+216	Sonia Gupta	sonia.gupta216@example.com	BA	2006	0.97	volunteers for alumni programs
+217	Priya Jain	priya.jain217@example.com	BTech	2009	0.32	occasionally donates
+218	Arjun Patel	arjun.patel218@example.com	MBA	2018	0.15	occasionally donates
+219	Priya Desai	priya.desai219@example.com	BTech	2011	0.45	mentoring students, active alumni
+220	Varun Nair	varun.nair220@example.com	MA	2023	0.23	attended 10-year reunion
+221	Amit Das	amit.das221@example.com	BA	2013	0.61	regular donor
+222	Deepak Chopra	deepak.chopra222@example.com	MSc	2023	0.71	inactive since graduation
+223	Deepak Reddy	deepak.reddy223@example.com	LLB	2009	0.03	inactive since graduation
+224	Ravi Sharma	ravi.sharma224@example.com	BTech	2002	0.59	volunteers for alumni programs
+225	Arjun Reddy	arjun.reddy225@example.com	LLB	2010	0.94	occasionally donates
+226	Pooja Sharma	pooja.sharma226@example.com	BSc	2022	0.42	career mentor
+227	Deepak Patel	deepak.patel227@example.com	MBA	2011	0.68	frequent event attendee
+228	Deepak Mishra	deepak.mishra228@example.com	BTech	2001	0.2	career mentor
+229	Sneha Chopra	sneha.chopra229@example.com	MA	2016	0.45	frequent event attendee
+230	Komal Desai	komal.desai230@example.com	BSc	2001	0.56	inactive since graduation
+231	Ravi Agarwal	ravi.agarwal231@example.com	LLB	2015	0.55	occasionally donates
+232	Sonia Gupta	sonia.gupta232@example.com	CA	2007	0.78	occasionally donates
+233	Komal Mishra	komal.mishra233@example.com	MTech	2020	0.24	no past donations
+234	Neha Nair	neha.nair234@example.com	MSc	2004	0.07	volunteers for alumni programs
+235	Pooja Kaur	pooja.kaur235@example.com	MTech	2002	0.48	no past donations
+236	Kiran Singh	kiran.singh236@example.com	MBA	2000	0.98	no past donations
+237	Ravi Kaur	ravi.kaur237@example.com	LLB	2000	0.11	frequent event attendee
+238	Deepak Sharma	deepak.sharma238@example.com	PhD	2011	0.27	mentoring students, active alumni
+239	Amit Reddy	amit.reddy239@example.com	MTech	2017	0.95	donated in past, attends reunions
+240	Anita Khanna	anita.khanna240@example.com	MTech	2021	0.71	occasionally donates
+241	Sneha Singh	sneha.singh241@example.com	MA	2013	0.9	frequent event attendee
+242	Vikram Bose	vikram.bose242@example.com	MTech	2021	0.8	frequent event attendee
+243	Priya Jain	priya.jain243@example.com	MTech	2013	0.66	frequent event attendee
+244	Raj Khanna	raj.khanna244@example.com	PhD	2020	0.57	no past donations
+245	Rohit Singh	rohit.singh245@example.com	MA	2021	0.33	attended 10-year reunion
+246	Ravi Malhotra	ravi.malhotra246@example.com	MSc	2009	0.69	volunteers for alumni programs
+247	Arjun Reddy	arjun.reddy247@example.com	PhD	2024	0.8	attended 10-year reunion
+248	Amit Jain	amit.jain248@example.com	MSc	2003	0.19	regular donor
+249	Rohit Verma	rohit.verma249@example.com	BSc	2019	0.36	occasionally donates
+250	Sonia Mishra	sonia.mishra250@example.com	LLB	2011	0.51	regular donor
+251	Raj Mishra	raj.mishra251@example.com	MSc	2009	0.33	volunteers for alumni programs
+252	Komal Verma	komal.verma252@example.com	MTech	2015	0.91	occasionally donates
+253	Vikram Agarwal	vikram.agarwal253@example.com	BA	2004	0.7	frequent event attendee
+254	Varun Malhotra	varun.malhotra254@example.com	LLB	2005	0.73	attended 10-year reunion
+255	Manish Kaur	manish.kaur255@example.com	MBA	2017	0.26	career mentor
+256	Rohit Patel	rohit.patel256@example.com	LLB	2007	0.23	mentoring students, active alumni
+257	Raj Khanna	raj.khanna257@example.com	MTech	2018	0.64	occasionally donates
+258	Komal Chopra	komal.chopra258@example.com	MSc	2007	0.99	frequent event attendee
+259	Manish Agarwal	manish.agarwal259@example.com	MTech	2024	0.35	occasionally donates
+260	Sonia Gupta	sonia.gupta260@example.com	MTech	2012	0.3	donated in past, attends reunions
+261	Deepak Pillai	deepak.pillai261@example.com	MBA	2009	0.48	regular donor
+262	Neha Khanna	neha.khanna262@example.com	LLB	2012	0.59	occasionally donates
+263	Anita Khanna	anita.khanna263@example.com	PhD	2018	0.03	donated in past, attends reunions
+264	Komal Desai	komal.desai264@example.com	PhD	2024	0.1	donated in past, attends reunions
+265	Ravi Verma	ravi.verma265@example.com	BA	2000	0.19	donated in past, attends reunions
+266	Rohit Mishra	rohit.mishra266@example.com	PhD	2012	0.2	regular donor
+267	Raj Mishra	raj.mishra267@example.com	MBA	2000	0.53	occasionally donates
+268	Komal Iyer	komal.iyer268@example.com	MSc	2018	0.02	regular donor
+269	Varun Kaur	varun.kaur269@example.com	PhD	2006	0.78	career mentor
+270	Meera Mehta	meera.mehta270@example.com	MTech	2014	0.56	no past donations
+271	Vikram Malhotra	vikram.malhotra271@example.com	MA	2015	0.73	mentoring students, active alumni
+272	Kiran Pillai	kiran.pillai272@example.com	BTech	2016	0.01	inactive since graduation
+273	Priya Mehta	priya.mehta273@example.com	BTech	2002	0.88	mentoring students, active alumni
+274	Kiran Malhotra	kiran.malhotra274@example.com	MSc	2017	0.18	inactive since graduation
+275	Sunil Mehta	sunil.mehta275@example.com	BTech	2014	0.03	frequent event attendee
+276	Sneha Singh	sneha.singh276@example.com	CA	2014	0.34	frequent event attendee
+277	Neha Pillai	neha.pillai277@example.com	MTech	2019	0.06	no past donations
+278	Sunil Iyer	sunil.iyer278@example.com	BSc	2023	0.77	donated in past, attends reunions
+279	Ravi Patel	ravi.patel279@example.com	MA	2019	0.87	inactive since graduation
+280	Vikram Mishra	vikram.mishra280@example.com	MSc	2012	0.53	frequent event attendee
+281	Amit Singh	amit.singh281@example.com	MSc	2018	0.26	inactive since graduation
+282	Sonia Khanna	sonia.khanna282@example.com	BTech	2018	0.87	attended 10-year reunion
+283	Kiran Gupta	kiran.gupta283@example.com	LLB	2019	0.5	attended 10-year reunion
+284	Arjun Kaur	arjun.kaur284@example.com	LLB	2011	0.74	career mentor
+285	Komal Iyer	komal.iyer285@example.com	BA	2024	0.53	inactive since graduation
+286	Rohit Bose	rohit.bose286@example.com	MSc	2001	0.08	donated in past, attends reunions
+287	Meera Iyer	meera.iyer287@example.com	PhD	2009	0.48	no past donations
+288	Meera Iyer	meera.iyer288@example.com	CA	2017	0.63	frequent event attendee
+289	Nikhil Pillai	nikhil.pillai289@example.com	MTech	2004	0.11	regular donor
+290	Amit Mehta	amit.mehta290@example.com	MA	2006	0.87	donated in past, attends reunions
+291	Sneha Singh	sneha.singh291@example.com	MSc	2004	0.82	volunteers for alumni programs
+292	Amit Jain	amit.jain292@example.com	BTech	2011	0.42	regular donor
+293	Sunil Gupta	sunil.gupta293@example.com	LLB	2001	0.14	donated in past, attends reunions
+294	Varun Reddy	varun.reddy294@example.com	BA	2024	0.47	frequent event attendee
+295	Sonia Jain	sonia.jain295@example.com	MBA	2003	0.69	inactive since graduation
+296	Nikhil Reddy	nikhil.reddy296@example.com	MTech	2012	0.94	donated in past, attends reunions
+297	Sonia Gupta	sonia.gupta297@example.com	BSc	2017	0.59	attended 10-year reunion
+298	Vikram Patel	vikram.patel298@example.com	MBA	2004	0.21	regular donor
+299	Anita Chopra	anita.chopra299@example.com	BSc	2015	0.72	occasionally donates
+300	Kiran Patel	kiran.patel300@example.com	BTech	2019	0.82	attended 10-year reunion
+301	Varun Kaur	varun.kaur301@example.com	BA	2009	0.63	frequent event attendee
+302	Arjun Agarwal	arjun.agarwal302@example.com	MBA	2004	0.31	mentoring students, active alumni
+303	Sunil Gupta	sunil.gupta303@example.com	BSc	2019	0.86	no past donations
+304	Neha Chopra	neha.chopra304@example.com	MSc	2003	0.19	no past donations
+305	Pooja Mehta	pooja.mehta305@example.com	BTech	2018	0.93	regular donor
+306	Neha Sharma	neha.sharma306@example.com	MBA	2001	0.39	mentoring students, active alumni
+307	Sonia Patel	sonia.patel307@example.com	MA	2003	0.84	donated in past, attends reunions
+308	Sonia Kaur	sonia.kaur308@example.com	BA	2001	0.24	occasionally donates
+309	Amit Agarwal	amit.agarwal309@example.com	PhD	2018	0.16	donated in past, attends reunions
+310	Anita Gupta	anita.gupta310@example.com	BA	2022	0.43	career mentor
+311	Vikram Khanna	vikram.khanna311@example.com	MBA	2004	0.36	inactive since graduation
+312	Rohit Nair	rohit.nair312@example.com	MTech	2009	0.94	mentoring students, active alumni
+313	Neha Sharma	neha.sharma313@example.com	MBA	2009	0.71	occasionally donates
+314	Amit Kaur	amit.kaur314@example.com	MA	2011	0.17	donated in past, attends reunions
+315	Sneha Reddy	sneha.reddy315@example.com	MBA	2014	0.86	career mentor
+316	Arjun Nair	arjun.nair316@example.com	MA	2016	0.76	inactive since graduation
+317	Varun Verma	varun.verma317@example.com	CA	2004	0.45	volunteers for alumni programs
+318	Ravi Jain	ravi.jain318@example.com	CA	2012	0.75	attended 10-year reunion
+319	Sunil Kaur	sunil.kaur319@example.com	MSc	2018	0.15	attended 10-year reunion
+320	Deepak Nair	deepak.nair320@example.com	MTech	2006	0.16	attended 10-year reunion
+321	Priya Agarwal	priya.agarwal321@example.com	MTech	2000	0.45	attended 10-year reunion
+322	Amit Agarwal	amit.agarwal322@example.com	MTech	2022	0.85	attended 10-year reunion
+323	Raj Mishra	raj.mishra323@example.com	MSc	2012	0.5	career mentor
+324	Rohit Mehta	rohit.mehta324@example.com	LLB	2024	0.18	regular donor
+325	Priya Bose	priya.bose325@example.com	BTech	2023	0.43	regular donor
+326	Deepak Khanna	deepak.khanna326@example.com	MBA	2011	0.75	career mentor
+327	Ravi Chopra	ravi.chopra327@example.com	BA	2019	0.26	regular donor
+328	Sneha Das	sneha.das328@example.com	BA	2000	0.84	career mentor
+329	Sunil Sharma	sunil.sharma329@example.com	MTech	2011	0.08	no past donations
+330	Sneha Mishra	sneha.mishra330@example.com	PhD	2018	0.91	frequent event attendee
+331	Meera Reddy	meera.reddy331@example.com	LLB	2003	0.53	career mentor
+332	Priya Desai	priya.desai332@example.com	BSc	2018	0.13	no past donations
+333	Sunil Singh	sunil.singh333@example.com	MA	2003	0.05	regular donor
+334	Arjun Agarwal	arjun.agarwal334@example.com	MA	2023	0.44	no past donations
+335	Arjun Verma	arjun.verma335@example.com	BTech	2001	0.39	inactive since graduation
+336	Anita Bose	anita.bose336@example.com	MTech	2002	0.12	donated in past, attends reunions
+337	Varun Verma	varun.verma337@example.com	MA	2007	0.79	attended 10-year reunion
+338	Nikhil Desai	nikhil.desai338@example.com	BSc	2011	0.6	career mentor
+339	Sonia Gupta	sonia.gupta339@example.com	MTech	2021	0.91	donated in past, attends reunions
+340	Meera Mehta	meera.mehta340@example.com	CA	2005	0.19	volunteers for alumni programs
+341	Arjun Desai	arjun.desai341@example.com	BA	2016	0.03	occasionally donates
+342	Raj Desai	raj.desai342@example.com	LLB	2024	0.24	regular donor
+343	Sneha Jain	sneha.jain343@example.com	BA	2008	0.77	no past donations
+344	Raj Iyer	raj.iyer344@example.com	PhD	2006	0.98	career mentor
+345	Raj Jain	raj.jain345@example.com	BTech	2008	0.34	volunteers for alumni programs
+346	Ravi Iyer	ravi.iyer346@example.com	LLB	2020	0.21	regular donor
+347	Anita Pillai	anita.pillai347@example.com	MA	2012	0.39	regular donor
+348	Meera Iyer	meera.iyer348@example.com	PhD	2010	0.01	attended 10-year reunion
+349	Priya Singh	priya.singh349@example.com	MSc	2010	0.65	volunteers for alumni programs
+350	Pooja Desai	pooja.desai350@example.com	CA	2018	0.97	donated in past, attends reunions
+351	Manish Chopra	manish.chopra351@example.com	MA	2005	0.19	volunteers for alumni programs
+352	Sunil Gupta	sunil.gupta352@example.com	MA	2002	0.18	frequent event attendee
+353	Manish Nair	manish.nair353@example.com	LLB	2001	0.12	career mentor
+354	Amit Sharma	amit.sharma354@example.com	MBA	2024	0.33	inactive since graduation
+355	Rohit Gupta	rohit.gupta355@example.com	PhD	2003	0.7	regular donor
+356	Rohit Chopra	rohit.chopra356@example.com	MA	2023	0.99	no past donations
+357	Nikhil Gupta	nikhil.gupta357@example.com	MSc	2023	0.02	attended 10-year reunion
+358	Neha Gupta	neha.gupta358@example.com	LLB	2020	0.94	attended 10-year reunion
+359	Rohit Iyer	rohit.iyer359@example.com	MBA	2005	0.11	occasionally donates
+360	Komal Nair	komal.nair360@example.com	BA	2022	0.09	career mentor
+361	Vikram Khanna	vikram.khanna361@example.com	MSc	2018	0.88	career mentor
+362	Pooja Patel	pooja.patel362@example.com	BTech	2005	0.05	career mentor
+363	Kiran Mishra	kiran.mishra363@example.com	CA	2015	0.17	career mentor
+364	Amit Kaur	amit.kaur364@example.com	MBA	2023	0.57	volunteers for alumni programs
+365	Pooja Reddy	pooja.reddy365@example.com	MTech	2021	0.61	inactive since graduation
+366	Kiran Kaur	kiran.kaur366@example.com	MBA	2004	0.79	regular donor
+367	Anita Mishra	anita.mishra367@example.com	LLB	2002	0.89	regular donor
+368	Arjun Iyer	arjun.iyer368@example.com	MBA	2006	0.68	occasionally donates
+369	Anita Kaur	anita.kaur369@example.com	MSc	2020	0.73	career mentor
+370	Vikram Singh	vikram.singh370@example.com	BSc	2012	0	donated in past, attends reunions
+371	Komal Kaur	komal.kaur371@example.com	BSc	2004	0.47	mentoring students, active alumni
+372	Arjun Verma	arjun.verma372@example.com	BA	2007	0.26	occasionally donates
+373	Sneha Kaur	sneha.kaur373@example.com	LLB	2003	0.43	mentoring students, active alumni
+374	Meera Bose	meera.bose374@example.com	BSc	2004	0.11	regular donor
+375	Sunil Pillai	sunil.pillai375@example.com	MSc	2017	0.14	mentoring students, active alumni
+376	Nikhil Nair	nikhil.nair376@example.com	BA	2012	0.53	occasionally donates
+377	Varun Malhotra	varun.malhotra377@example.com	MSc	2007	0.31	attended 10-year reunion
+378	Raj Mehta	raj.mehta378@example.com	BA	2015	0.06	no past donations
+379	Komal Desai	komal.desai379@example.com	BSc	2021	0.58	inactive since graduation
+380	Manish Das	manish.das380@example.com	LLB	2000	0.79	mentoring students, active alumni
+381	Priya Sharma	priya.sharma381@example.com	BA	2011	0.03	donated in past, attends reunions
+382	Meera Kaur	meera.kaur382@example.com	BTech	2015	0.18	donated in past, attends reunions
+383	Amit Gupta	amit.gupta383@example.com	MBA	2011	0.64	volunteers for alumni programs
+384	Deepak Khanna	deepak.khanna384@example.com	BA	2011	0.75	donated in past, attends reunions
+385	Meera Singh	meera.singh385@example.com	CA	2022	0.99	regular donor
+386	Raj Verma	raj.verma386@example.com	CA	2014	0.61	career mentor
+387	Komal Chopra	komal.chopra387@example.com	MTech	2000	0.42	no past donations
+388	Raj Das	raj.das388@example.com	BA	2005	0.96	career mentor
+389	Ravi Jain	ravi.jain389@example.com	MSc	2019	0.69	donated in past, attends reunions
+390	Sunil Jain	sunil.jain390@example.com	MBA	2007	0.75	attended 10-year reunion
+391	Amit Pillai	amit.pillai391@example.com	BTech	2017	0.14	frequent event attendee
+392	Amit Verma	amit.verma392@example.com	BA	2010	0.47	mentoring students, active alumni
+393	Neha Jain	neha.jain393@example.com	MTech	2002	1	attended 10-year reunion
+394	Arjun Reddy	arjun.reddy394@example.com	MTech	2003	0.58	mentoring students, active alumni
+395	Pooja Jain	pooja.jain395@example.com	MA	2006	0.24	career mentor
+396	Nikhil Verma	nikhil.verma396@example.com	LLB	2008	0.31	volunteers for alumni programs
+397	Neha Patel	neha.patel397@example.com	MBA	2007	0.1	career mentor
+398	Kiran Kaur	kiran.kaur398@example.com	PhD	2022	0.39	frequent event attendee
+399	Pooja Mishra	pooja.mishra399@example.com	CA	2003	0.21	career mentor
+400	Sunil Agarwal	sunil.agarwal400@example.com	MBA	2007	0.98	occasionally donates
+401	Arjun Das	arjun.das401@example.com	PhD	2013	0.42	no past donations
+402	Sonia Chopra	sonia.chopra402@example.com	CA	2015	0.76	inactive since graduation
+403	Sonia Gupta	sonia.gupta403@example.com	BTech	2002	0.23	career mentor
+404	Anita Desai	anita.desai404@example.com	CA	2009	0.71	attended 10-year reunion
+405	Deepak Malhotra	deepak.malhotra405@example.com	BSc	2018	0.74	occasionally donates
+406	Arjun Bose	arjun.bose406@example.com	BTech	2007	0.7	frequent event attendee
+407	Komal Kaur	komal.kaur407@example.com	MBA	2008	0.66	donated in past, attends reunions
+408	Nikhil Desai	nikhil.desai408@example.com	MA	2005	0.59	no past donations
+409	Vikram Gupta	vikram.gupta409@example.com	BA	2003	0.9	volunteers for alumni programs
+410	Sunil Bose	sunil.bose410@example.com	MSc	2023	0.4	volunteers for alumni programs
+411	Vikram Patel	vikram.patel411@example.com	BTech	2005	0.06	inactive since graduation
+412	Nikhil Pillai	nikhil.pillai412@example.com	LLB	2013	0.98	attended 10-year reunion
+413	Pooja Sharma	pooja.sharma413@example.com	MA	2015	0.13	career mentor
+414	Anita Das	anita.das414@example.com	CA	2024	0.78	no past donations
+415	Neha Verma	neha.verma415@example.com	MSc	2007	0.8	no past donations
+416	Neha Nair	neha.nair416@example.com	MBA	2018	0.99	mentoring students, active alumni
+417	Anita Mehta	anita.mehta417@example.com	CA	2008	0.28	occasionally donates
+418	Komal Das	komal.das418@example.com	BSc	2016	0.41	career mentor
+419	Manish Verma	manish.verma419@example.com	BSc	2003	0.57	volunteers for alumni programs
+420	Sonia Jain	sonia.jain420@example.com	PhD	2018	0.86	occasionally donates
+421	Sneha Gupta	sneha.gupta421@example.com	LLB	2006	0.24	career mentor
+422	Kiran Jain	kiran.jain422@example.com	BSc	2014	0.56	occasionally donates
+423	Sneha Sharma	sneha.sharma423@example.com	BA	2004	0.73	career mentor
+424	Anita Mehta	anita.mehta424@example.com	BA	2005	0.33	career mentor
+425	Manish Mishra	manish.mishra425@example.com	MSc	2008	0.46	donated in past, attends reunions
+426	Manish Mishra	manish.mishra426@example.com	BSc	2010	0.32	regular donor
+427	Vikram Verma	vikram.verma427@example.com	MA	2002	0.28	regular donor
+428	Sonia Mishra	sonia.mishra428@example.com	MSc	2009	0.04	career mentor
+429	Anita Mehta	anita.mehta429@example.com	LLB	2012	0.94	donated in past, attends reunions
+430	Raj Chopra	raj.chopra430@example.com	BSc	2024	0.84	donated in past, attends reunions
+431	Meera Singh	meera.singh431@example.com	MSc	2001	0.39	mentoring students, active alumni
+432	Pooja Singh	pooja.singh432@example.com	MTech	2006	0.3	regular donor
+433	Priya Chopra	priya.chopra433@example.com	LLB	2001	0.47	regular donor
+434	Nikhil Mishra	nikhil.mishra434@example.com	MBA	2005	0.49	regular donor
+435	Meera Chopra	meera.chopra435@example.com	LLB	2012	0.53	volunteers for alumni programs
+436	Arjun Verma	arjun.verma436@example.com	BTech	2018	0.01	donated in past, attends reunions
+437	Manish Das	manish.das437@example.com	BA	2017	0.04	donated in past, attends reunions
+438	Sunil Singh	sunil.singh438@example.com	MTech	2022	0.04	donated in past, attends reunions
+439	Komal Gupta	komal.gupta439@example.com	MSc	2018	0.65	attended 10-year reunion
+440	Meera Nair	meera.nair440@example.com	BA	2019	0.19	volunteers for alumni programs
+441	Sonia Kaur	sonia.kaur441@example.com	MA	2013	0.43	occasionally donates
+442	Manish Reddy	manish.reddy442@example.com	CA	2024	0.49	donated in past, attends reunions
+443	Priya Das	priya.das443@example.com	MSc	2014	0.75	volunteers for alumni programs
+444	Ravi Bose	ravi.bose444@example.com	MBA	2015	0.24	volunteers for alumni programs
+445	Arjun Jain	arjun.jain445@example.com	MSc	2008	0.49	volunteers for alumni programs
+446	Meera Patel	meera.patel446@example.com	BA	2024	0.82	no past donations
+447	Deepak Das	deepak.das447@example.com	BTech	2003	0.87	donated in past, attends reunions
+448	Neha Jain	neha.jain448@example.com	MBA	2018	0.42	mentoring students, active alumni
+449	Rohit Patel	rohit.patel449@example.com	MSc	2018	0.84	no past donations
+450	Sneha Jain	sneha.jain450@example.com	MA	2017	0.28	donated in past, attends reunions
+451	Rohit Pillai	rohit.pillai451@example.com	MTech	2016	0.3	donated in past, attends reunions
+452	Pooja Nair	pooja.nair452@example.com	BTech	2007	0.66	regular donor
+453	Deepak Nair	deepak.nair453@example.com	BSc	2021	0.55	no past donations
+454	Priya Singh	priya.singh454@example.com	MA	2006	0.5	mentoring students, active alumni
+455	Sunil Pillai	sunil.pillai455@example.com	PhD	2021	0.2	occasionally donates
+456	Raj Das	raj.das456@example.com	MTech	2008	0.04	donated in past, attends reunions
+457	Nikhil Desai	nikhil.desai457@example.com	BSc	2017	0.23	occasionally donates
+458	Neha Jain	neha.jain458@example.com	BTech	2024	0.36	frequent event attendee
+459	Manish Agarwal	manish.agarwal459@example.com	LLB	2003	0.43	frequent event attendee
+460	Manish Iyer	manish.iyer460@example.com	MBA	2002	0.66	career mentor
+461	Kiran Patel	kiran.patel461@example.com	PhD	2011	0	donated in past, attends reunions
+462	Komal Patel	komal.patel462@example.com	BTech	2006	0.78	donated in past, attends reunions
+463	Ravi Desai	ravi.desai463@example.com	CA	2011	0.24	donated in past, attends reunions
+464	Amit Singh	amit.singh464@example.com	MSc	2000	0.27	career mentor
+465	Priya Khanna	priya.khanna465@example.com	MTech	2005	0.83	donated in past, attends reunions
+466	Anita Verma	anita.verma466@example.com	MBA	2011	0.16	inactive since graduation
+467	Ravi Jain	ravi.jain467@example.com	PhD	2018	0.85	career mentor
+468	Deepak Iyer	deepak.iyer468@example.com	MSc	2021	0.07	no past donations
+469	Manish Mishra	manish.mishra469@example.com	MSc	2016	0.08	inactive since graduation
+470	Vikram Singh	vikram.singh470@example.com	BTech	2002	0.91	occasionally donates
+471	Amit Das	amit.das471@example.com	MA	2006	0.12	inactive since graduation
+472	Arjun Chopra	arjun.chopra472@example.com	CA	2004	0.25	career mentor
+473	Sunil Pillai	sunil.pillai473@example.com	MA	2024	0.03	donated in past, attends reunions
+474	Vikram Sharma	vikram.sharma474@example.com	MSc	2014	0.78	donated in past, attends reunions
+475	Komal Malhotra	komal.malhotra475@example.com	LLB	2001	0.56	mentoring students, active alumni
+476	Komal Pillai	komal.pillai476@example.com	BTech	2023	0.65	volunteers for alumni programs
+477	Varun Kaur	varun.kaur477@example.com	BTech	2019	0.3	career mentor
+478	Raj Reddy	raj.reddy478@example.com	MBA	2001	0.85	donated in past, attends reunions
+479	Rohit Iyer	rohit.iyer479@example.com	PhD	2000	0.25	inactive since graduation
+480	Sneha Patel	sneha.patel480@example.com	BA	2023	0.69	mentoring students, active alumni
+481	Anita Pillai	anita.pillai481@example.com	MA	2004	0.16	mentoring students, active alumni
+482	Amit Patel	amit.patel482@example.com	CA	2005	0.1	mentoring students, active alumni
+483	Ravi Chopra	ravi.chopra483@example.com	MBA	2005	0.43	attended 10-year reunion
+484	Anita Khanna	anita.khanna484@example.com	CA	2021	0.93	mentoring students, active alumni
+485	Nikhil Pillai	nikhil.pillai485@example.com	PhD	2015	0.3	occasionally donates
+486	Ravi Gupta	ravi.gupta486@example.com	LLB	2018	0.12	attended 10-year reunion
+487	Varun Mishra	varun.mishra487@example.com	BSc	2016	0.09	attended 10-year reunion
+488	Anita Malhotra	anita.malhotra488@example.com	PhD	2001	0.71	occasionally donates
+489	Kiran Das	kiran.das489@example.com	MTech	2006	0.91	inactive since graduation
+490	Rohit Reddy	rohit.reddy490@example.com	BTech	2005	0.84	inactive since graduation
+491	Rohit Jain	rohit.jain491@example.com	MTech	2009	0.66	attended 10-year reunion
+492	Amit Verma	amit.verma492@example.com	MA	2000	0.5	inactive since graduation
+493	Meera Reddy	meera.reddy493@example.com	PhD	2007	0.71	mentoring students, active alumni
+494	Komal Mehta	komal.mehta494@example.com	PhD	2021	0.23	inactive since graduation
+495	Arjun Bose	arjun.bose495@example.com	CA	2004	0.4	mentoring students, active alumni
+496	Nikhil Agarwal	nikhil.agarwal496@example.com	PhD	2020	0.4	occasionally donates
+497	Raj Das	raj.das497@example.com	CA	2020	0.44	no past donations
+498	Anita Reddy	anita.reddy498@example.com	LLB	2018	0.53	donated in past, attends reunions
+499	Meera Reddy	meera.reddy499@example.com	MA	2001	0.8	no past donations
+500	Varun Mishra	varun.mishra500@example.com	LLB	2011	0.94	occasionally donates
+501	Rohit Bose	rohit.bose501@example.com	PhD	2011	0.43	no past donations
+502	Priya Mishra	priya.mishra502@example.com	PhD	2014	0.39	mentoring students, active alumni
+503	Amit Iyer	amit.iyer503@example.com	LLB	2017	0.67	inactive since graduation
+504	Sonia Khanna	sonia.khanna504@example.com	MTech	2016	0.38	occasionally donates
+505	Rohit Iyer	rohit.iyer505@example.com	MBA	2005	0.17	volunteers for alumni programs
+506	Priya Verma	priya.verma506@example.com	MSc	2002	0.27	regular donor
+507	Manish Gupta	manish.gupta507@example.com	MTech	2009	0.23	no past donations
+508	Meera Verma	meera.verma508@example.com	BSc	2023	0.27	inactive since graduation
+509	Kiran Das	kiran.das509@example.com	MTech	2021	0.15	donated in past, attends reunions
+510	Vikram Khanna	vikram.khanna510@example.com	LLB	2010	0.87	no past donations
+511	Varun Nair	varun.nair511@example.com	MTech	2007	0.8	no past donations
+512	Sunil Sharma	sunil.sharma512@example.com	PhD	2016	0.79	occasionally donates
+513	Kiran Gupta	kiran.gupta513@example.com	BTech	2023	0.8	no past donations
+514	Raj Desai	raj.desai514@example.com	BA	2002	0.2	volunteers for alumni programs
+515	Kiran Khanna	kiran.khanna515@example.com	BA	2001	0.06	mentoring students, active alumni
+516	Arjun Desai	arjun.desai516@example.com	MTech	2003	0.15	frequent event attendee
+517	Anita Khanna	anita.khanna517@example.com	BTech	2015	0.84	career mentor
+518	Komal Sharma	komal.sharma518@example.com	BSc	2008	0.94	attended 10-year reunion
+519	Kiran Reddy	kiran.reddy519@example.com	BA	2002	0.95	frequent event attendee
+520	Priya Reddy	priya.reddy520@example.com	CA	2000	0.49	volunteers for alumni programs
+521	Sneha Das	sneha.das521@example.com	CA	2000	0.36	regular donor
+522	Arjun Malhotra	arjun.malhotra522@example.com	BTech	2024	0.51	career mentor
+523	Anita Chopra	anita.chopra523@example.com	PhD	2004	0.66	no past donations
+524	Raj Mehta	raj.mehta524@example.com	MSc	2022	0.97	attended 10-year reunion
+525	Manish Malhotra	manish.malhotra525@example.com	MA	2006	0.38	career mentor
+526	Priya Reddy	priya.reddy526@example.com	LLB	2017	0.59	donated in past, attends reunions
+527	Vikram Khanna	vikram.khanna527@example.com	MTech	2010	0.99	career mentor
+528	Manish Gupta	manish.gupta528@example.com	BA	2007	0.96	occasionally donates
+529	Sunil Singh	sunil.singh529@example.com	MSc	2021	0.39	inactive since graduation
+530	Sunil Gupta	sunil.gupta530@example.com	MTech	2007	0.12	regular donor
+531	Sunil Sharma	sunil.sharma531@example.com	MTech	2003	0.99	attended 10-year reunion
+532	Rohit Iyer	rohit.iyer532@example.com	LLB	2002	0.17	career mentor
+533	Pooja Desai	pooja.desai533@example.com	BTech	2013	0.01	volunteers for alumni programs
+534	Amit Das	amit.das534@example.com	BSc	2022	0.95	career mentor
+535	Meera Singh	meera.singh535@example.com	PhD	2000	0.4	career mentor
+536	Nikhil Das	nikhil.das536@example.com	MBA	2002	0.03	donated in past, attends reunions
+537	Amit Sharma	amit.sharma537@example.com	MA	2023	0.56	mentoring students, active alumni
+538	Varun Reddy	varun.reddy538@example.com	LLB	2007	0.68	volunteers for alumni programs
+539	Vikram Sharma	vikram.sharma539@example.com	BSc	2005	0.56	no past donations
+540	Sonia Agarwal	sonia.agarwal540@example.com	CA	2019	0.2	mentoring students, active alumni
+541	Arjun Khanna	arjun.khanna541@example.com	MA	2014	0.48	occasionally donates
+542	Nikhil Verma	nikhil.verma542@example.com	MSc	2022	0.63	inactive since graduation
+543	Komal Desai	komal.desai543@example.com	PhD	2012	0.41	volunteers for alumni programs
+544	Pooja Mehta	pooja.mehta544@example.com	MBA	2014	0.31	donated in past, attends reunions
+545	Nikhil Bose	nikhil.bose545@example.com	CA	2002	0.66	inactive since graduation
+546	Sneha Sharma	sneha.sharma546@example.com	MTech	2014	0.95	attended 10-year reunion
+547	Anita Chopra	anita.chopra547@example.com	MTech	2008	0.76	inactive since graduation
+548	Neha Singh	neha.singh548@example.com	BSc	2007	0.68	attended 10-year reunion
+549	Priya Khanna	priya.khanna549@example.com	MTech	2008	0.23	attended 10-year reunion
+550	Ravi Singh	ravi.singh550@example.com	BA	2005	0.98	frequent event attendee
+551	Deepak Khanna	deepak.khanna551@example.com	CA	2022	0.11	attended 10-year reunion
+552	Priya Mishra	priya.mishra552@example.com	MSc	2015	0.87	attended 10-year reunion
+553	Sonia Reddy	sonia.reddy553@example.com	MSc	2001	0.73	no past donations
+554	Arjun Iyer	arjun.iyer554@example.com	CA	2024	0.73	mentoring students, active alumni
+555	Sunil Reddy	sunil.reddy555@example.com	LLB	2024	0.3	volunteers for alumni programs
+556	Nikhil Bose	nikhil.bose556@example.com	MTech	2021	0.95	volunteers for alumni programs
+557	Arjun Kaur	arjun.kaur557@example.com	MSc	2005	0.42	occasionally donates
+558	Vikram Pillai	vikram.pillai558@example.com	LLB	2002	0.03	volunteers for alumni programs
+559	Nikhil Reddy	nikhil.reddy559@example.com	PhD	2020	0.85	attended 10-year reunion
+560	Sneha Kaur	sneha.kaur560@example.com	BA	2024	0.7	volunteers for alumni programs
+561	Neha Chopra	neha.chopra561@example.com	MA	2019	0.78	occasionally donates
+562	Sunil Gupta	sunil.gupta562@example.com	MSc	2003	0.92	attended 10-year reunion
+563	Arjun Nair	arjun.nair563@example.com	BTech	2022	0.76	volunteers for alumni programs
+564	Sonia Verma	sonia.verma564@example.com	BA	2014	0.25	inactive since graduation
+565	Raj Agarwal	raj.agarwal565@example.com	MBA	2014	0.83	inactive since graduation
+566	Meera Singh	meera.singh566@example.com	BSc	2004	0.94	occasionally donates
+567	Meera Reddy	meera.reddy567@example.com	MA	2023	0.14	frequent event attendee
+568	Kiran Jain	kiran.jain568@example.com	BTech	2007	0.81	regular donor
+569	Rohit Jain	rohit.jain569@example.com	MTech	2016	0	attended 10-year reunion
+570	Neha Das	neha.das570@example.com	PhD	2019	0.13	volunteers for alumni programs
+571	Nikhil Nair	nikhil.nair571@example.com	MA	2012	0.51	occasionally donates
+572	Manish Singh	manish.singh572@example.com	LLB	2010	0.33	occasionally donates
+573	Vikram Nair	vikram.nair573@example.com	BTech	2015	0.44	regular donor
+574	Pooja Malhotra	pooja.malhotra574@example.com	CA	2019	0.42	career mentor
+575	Pooja Verma	pooja.verma575@example.com	MTech	2013	0.56	regular donor
+576	Amit Nair	amit.nair576@example.com	CA	2009	0.05	donated in past, attends reunions
+577	Varun Agarwal	varun.agarwal577@example.com	MTech	2018	0.81	occasionally donates
+578	Raj Sharma	raj.sharma578@example.com	MBA	2004	0.92	donated in past, attends reunions
+579	Nikhil Mehta	nikhil.mehta579@example.com	BTech	2017	0.85	regular donor
+580	Rohit Gupta	rohit.gupta580@example.com	LLB	2002	0.51	inactive since graduation
+581	Kiran Desai	kiran.desai581@example.com	BTech	2008	0.22	attended 10-year reunion
+582	Sneha Iyer	sneha.iyer582@example.com	MBA	2023	0.61	attended 10-year reunion
+583	Vikram Sharma	vikram.sharma583@example.com	MSc	2005	0.54	donated in past, attends reunions
+584	Neha Nair	neha.nair584@example.com	MTech	2015	0.05	attended 10-year reunion
+585	Rohit Singh	rohit.singh585@example.com	MA	2007	0.83	donated in past, attends reunions
+586	Sonia Nair	sonia.nair586@example.com	MTech	2010	0.83	donated in past, attends reunions
+587	Rohit Khanna	rohit.khanna587@example.com	MSc	2011	0.74	mentoring students, active alumni
+588	Meera Singh	meera.singh588@example.com	MTech	2012	0.95	mentoring students, active alumni
+589	Priya Gupta	priya.gupta589@example.com	MBA	2005	0.85	occasionally donates
+590	Kiran Desai	kiran.desai590@example.com	LLB	2019	0.99	donated in past, attends reunions
+591	Sneha Nair	sneha.nair591@example.com	MA	2013	0.92	occasionally donates
+592	Pooja Pillai	pooja.pillai592@example.com	MA	2021	0.49	occasionally donates
+593	Komal Jain	komal.jain593@example.com	MSc	2002	0.53	no past donations
+594	Sonia Sharma	sonia.sharma594@example.com	BSc	2005	0.46	no past donations
+595	Nikhil Nair	nikhil.nair595@example.com	PhD	2003	0.15	inactive since graduation
+596	Pooja Mehta	pooja.mehta596@example.com	CA	2015	0.07	mentoring students, active alumni
+597	Priya Nair	priya.nair597@example.com	BSc	2011	0.58	mentoring students, active alumni
+598	Sonia Kaur	sonia.kaur598@example.com	MSc	2023	0.06	frequent event attendee
+599	Pooja Desai	pooja.desai599@example.com	MTech	2006	0.09	mentoring students, active alumni
+600	Priya Mishra	priya.mishra600@example.com	BSc	2022	0.91	career mentor
+601	Amit Mishra	amit.mishra601@example.com	MBA	2018	0.32	regular donor
+602	Sunil Das	sunil.das602@example.com	CA	2018	0.01	regular donor
+603	Priya Verma	priya.verma603@example.com	LLB	2000	0.75	mentoring students, active alumni
+604	Komal Kaur	komal.kaur604@example.com	MA	2020	0.57	donated in past, attends reunions
+605	Sonia Patel	sonia.patel605@example.com	MTech	2001	0.31	volunteers for alumni programs
+606	Komal Patel	komal.patel606@example.com	MA	2000	0.43	mentoring students, active alumni
+607	Priya Gupta	priya.gupta607@example.com	MA	2015	0.66	mentoring students, active alumni
+608	Amit Nair	amit.nair608@example.com	PhD	2000	0.79	donated in past, attends reunions
+609	Vikram Jain	vikram.jain609@example.com	BA	2022	0.51	volunteers for alumni programs
+610	Arjun Pillai	arjun.pillai610@example.com	LLB	2023	0.89	no past donations
+611	Raj Verma	raj.verma611@example.com	BA	2010	0.68	volunteers for alumni programs
+612	Priya Singh	priya.singh612@example.com	CA	2013	0.88	no past donations
+613	Amit Nair	amit.nair613@example.com	MSc	2021	0.63	occasionally donates
+614	Kiran Mishra	kiran.mishra614@example.com	BA	2017	0.75	attended 10-year reunion
+615	Sunil Das	sunil.das615@example.com	LLB	2005	0.51	regular donor
+616	Priya Verma	priya.verma616@example.com	MSc	2010	0.87	donated in past, attends reunions
+617	Deepak Bose	deepak.bose617@example.com	CA	2010	0.75	occasionally donates
+618	Sneha Singh	sneha.singh618@example.com	MBA	2010	0.54	occasionally donates
+619	Sunil Sharma	sunil.sharma619@example.com	MBA	2014	0.13	donated in past, attends reunions
+620	Pooja Reddy	pooja.reddy620@example.com	MTech	2011	0.58	no past donations
+621	Amit Verma	amit.verma621@example.com	LLB	2015	0.19	no past donations
+622	Ravi Singh	ravi.singh622@example.com	MTech	2005	0.39	donated in past, attends reunions
+623	Rohit Mishra	rohit.mishra623@example.com	BSc	2002	0.37	mentoring students, active alumni
+624	Arjun Chopra	arjun.chopra624@example.com	BTech	2019	0.87	career mentor
+625	Deepak Sharma	deepak.sharma625@example.com	PhD	2002	0.99	occasionally donates
+626	Raj Khanna	raj.khanna626@example.com	LLB	2010	0.68	career mentor
+627	Neha Pillai	neha.pillai627@example.com	MSc	2014	0.16	mentoring students, active alumni
+628	Rohit Patel	rohit.patel628@example.com	BTech	2010	0.66	attended 10-year reunion
+629	Varun Mehta	varun.mehta629@example.com	BSc	2015	0.17	career mentor
+630	Raj Mehta	raj.mehta630@example.com	MTech	2001	0.66	career mentor
+631	Raj Agarwal	raj.agarwal631@example.com	MBA	2019	0.65	inactive since graduation
+632	Nikhil Pillai	nikhil.pillai632@example.com	MSc	2007	0.32	occasionally donates
+633	Neha Mehta	neha.mehta633@example.com	BTech	2018	0.14	no past donations
+634	Neha Bose	neha.bose634@example.com	MSc	2013	0.74	mentoring students, active alumni
+635	Meera Kaur	meera.kaur635@example.com	BSc	2015	0.48	attended 10-year reunion
+636	Sunil Bose	sunil.bose636@example.com	PhD	2015	0.27	frequent event attendee
+637	Kiran Bose	kiran.bose637@example.com	MTech	2017	0.14	regular donor
+638	Raj Nair	raj.nair638@example.com	LLB	2023	0.6	volunteers for alumni programs
+639	Nikhil Verma	nikhil.verma639@example.com	MTech	2013	0.67	career mentor
+640	Deepak Pillai	deepak.pillai640@example.com	BTech	2006	0.1	volunteers for alumni programs
+641	Varun Singh	varun.singh641@example.com	CA	2020	0.91	donated in past, attends reunions
+642	Amit Mehta	amit.mehta642@example.com	MA	2000	0.74	no past donations
+643	Arjun Mishra	arjun.mishra643@example.com	LLB	2023	0.33	volunteers for alumni programs
+644	Pooja Iyer	pooja.iyer644@example.com	PhD	2024	0.32	volunteers for alumni programs
+645	Varun Patel	varun.patel645@example.com	PhD	2001	0.55	regular donor
+646	Nikhil Chopra	nikhil.chopra646@example.com	CA	2004	0.61	mentoring students, active alumni
+647	Arjun Sharma	arjun.sharma647@example.com	MA	2017	0.28	mentoring students, active alumni
+648	Kiran Agarwal	kiran.agarwal648@example.com	CA	2024	0.04	volunteers for alumni programs
+649	Sunil Das	sunil.das649@example.com	BSc	2019	0.05	no past donations
+650	Raj Sharma	raj.sharma650@example.com	MA	2008	0.95	career mentor
+651	Amit Pillai	amit.pillai651@example.com	MSc	2023	0.13	career mentor
+652	Anita Verma	anita.verma652@example.com	MA	2022	0.51	occasionally donates
+653	Anita Khanna	anita.khanna653@example.com	BTech	2015	0.44	volunteers for alumni programs
+654	Raj Mishra	raj.mishra654@example.com	MBA	2013	0.74	occasionally donates
+655	Neha Iyer	neha.iyer655@example.com	BA	2001	0.31	donated in past, attends reunions
+656	Anita Verma	anita.verma656@example.com	BTech	2018	0.65	frequent event attendee
+657	Sneha Nair	sneha.nair657@example.com	MA	2013	0.99	no past donations
+658	Kiran Verma	kiran.verma658@example.com	MA	2010	0.87	mentoring students, active alumni
+659	Sonia Kaur	sonia.kaur659@example.com	LLB	2008	0.31	donated in past, attends reunions
+660	Komal Iyer	komal.iyer660@example.com	PhD	2020	0.96	mentoring students, active alumni
+661	Nikhil Nair	nikhil.nair661@example.com	CA	2008	0.34	mentoring students, active alumni
+662	Nikhil Patel	nikhil.patel662@example.com	MA	2009	0.09	career mentor
+663	Kiran Desai	kiran.desai663@example.com	BTech	2012	0.67	mentoring students, active alumni
+664	Pooja Bose	pooja.bose664@example.com	BSc	2001	0.35	inactive since graduation
+665	Varun Verma	varun.verma665@example.com	LLB	2015	0.97	donated in past, attends reunions
+666	Rohit Das	rohit.das666@example.com	LLB	2024	0.44	mentoring students, active alumni
+667	Komal Das	komal.das667@example.com	MTech	2021	0.49	frequent event attendee
+668	Nikhil Sharma	nikhil.sharma668@example.com	PhD	2001	0.45	donated in past, attends reunions
+669	Arjun Chopra	arjun.chopra669@example.com	CA	2011	0.76	attended 10-year reunion
+670	Varun Patel	varun.patel670@example.com	PhD	2010	0.76	inactive since graduation
+671	Nikhil Gupta	nikhil.gupta671@example.com	MTech	2002	0.8	occasionally donates
+672	Neha Patel	neha.patel672@example.com	LLB	2020	0.77	occasionally donates
+673	Rohit Das	rohit.das673@example.com	LLB	2004	0.16	regular donor
+674	Rohit Mishra	rohit.mishra674@example.com	PhD	2016	0.02	mentoring students, active alumni
+675	Vikram Agarwal	vikram.agarwal675@example.com	MSc	2022	0.88	volunteers for alumni programs
+676	Pooja Nair	pooja.nair676@example.com	MSc	2012	0.72	inactive since graduation
+677	Manish Pillai	manish.pillai677@example.com	BSc	2014	0.68	occasionally donates
+678	Nikhil Verma	nikhil.verma678@example.com	MA	2012	0.44	donated in past, attends reunions
+679	Rohit Khanna	rohit.khanna679@example.com	MTech	2002	0.79	donated in past, attends reunions
+680	Ravi Nair	ravi.nair680@example.com	MA	2009	0.2	no past donations
+681	Kiran Jain	kiran.jain681@example.com	BSc	2002	0.14	inactive since graduation
+682	Meera Bose	meera.bose682@example.com	CA	2018	0.84	career mentor
+683	Meera Singh	meera.singh683@example.com	MTech	2019	0.19	inactive since graduation
+684	Ravi Mehta	ravi.mehta684@example.com	LLB	2018	0.6	volunteers for alumni programs
+685	Arjun Jain	arjun.jain685@example.com	BTech	2018	0.95	frequent event attendee
+686	Anita Verma	anita.verma686@example.com	LLB	2024	0.05	occasionally donates
+687	Sunil Desai	sunil.desai687@example.com	BA	2000	0.91	regular donor
+688	Komal Gupta	komal.gupta688@example.com	MSc	2023	0.85	mentoring students, active alumni
+689	Arjun Agarwal	arjun.agarwal689@example.com	MBA	2022	0.74	frequent event attendee
+690	Anita Jain	anita.jain690@example.com	BSc	2005	0.73	attended 10-year reunion
+691	Varun Kaur	varun.kaur691@example.com	BTech	2024	0.99	no past donations
+692	Amit Desai	amit.desai692@example.com	BSc	2012	0.33	frequent event attendee
+693	Ravi Gupta	ravi.gupta693@example.com	CA	2005	0.15	donated in past, attends reunions
+694	Deepak Kaur	deepak.kaur694@example.com	MSc	2022	0.29	no past donations
+695	Meera Mishra	meera.mishra695@example.com	CA	2019	0.22	frequent event attendee
+696	Meera Jain	meera.jain696@example.com	PhD	2023	0.68	frequent event attendee
+697	Anita Agarwal	anita.agarwal697@example.com	BTech	2016	0.83	attended 10-year reunion
+698	Pooja Chopra	pooja.chopra698@example.com	MBA	2020	0.85	donated in past, attends reunions
+699	Pooja Jain	pooja.jain699@example.com	MSc	2013	0.22	volunteers for alumni programs
+700	Sneha Nair	sneha.nair700@example.com	MA	2008	0.81	career mentor
+701	Rohit Malhotra	rohit.malhotra701@example.com	MBA	2000	0.16	volunteers for alumni programs
+702	Meera Reddy	meera.reddy702@example.com	PhD	2020	0.66	donated in past, attends reunions
+703	Amit Verma	amit.verma703@example.com	BSc	2023	0.11	occasionally donates
+704	Ravi Mishra	ravi.mishra704@example.com	CA	2016	0.88	attended 10-year reunion
+705	Rohit Malhotra	rohit.malhotra705@example.com	CA	2002	0.58	donated in past, attends reunions
+706	Komal Verma	komal.verma706@example.com	MSc	2006	0.98	career mentor
+707	Meera Khanna	meera.khanna707@example.com	MSc	2001	0.51	donated in past, attends reunions
+708	Anita Gupta	anita.gupta708@example.com	BA	2006	0.15	volunteers for alumni programs
+709	Anita Nair	anita.nair709@example.com	BTech	2009	0.74	mentoring students, active alumni
+710	Sunil Jain	sunil.jain710@example.com	MA	2009	0.87	inactive since graduation
+711	Deepak Agarwal	deepak.agarwal711@example.com	LLB	2009	0.04	volunteers for alumni programs
+712	Manish Jain	manish.jain712@example.com	MTech	2006	0.12	frequent event attendee
+713	Varun Nair	varun.nair713@example.com	CA	2023	0.53	regular donor
+714	Sunil Pillai	sunil.pillai714@example.com	PhD	2010	0.64	occasionally donates
+715	Kiran Kaur	kiran.kaur715@example.com	MTech	2018	0.89	frequent event attendee
+716	Varun Patel	varun.patel716@example.com	PhD	2000	0.37	regular donor
+717	Komal Jain	komal.jain717@example.com	PhD	2006	0.29	donated in past, attends reunions
+718	Nikhil Jain	nikhil.jain718@example.com	MTech	2002	0.97	volunteers for alumni programs
+719	Vikram Patel	vikram.patel719@example.com	BSc	2017	0.61	attended 10-year reunion
+720	Kiran Patel	kiran.patel720@example.com	MSc	2017	0.69	regular donor
+721	Amit Nair	amit.nair721@example.com	MBA	2011	0.89	mentoring students, active alumni
+722	Nikhil Khanna	nikhil.khanna722@example.com	BA	2008	0.31	no past donations
+723	Ravi Das	ravi.das723@example.com	BA	2003	0.97	volunteers for alumni programs
+724	Sneha Kaur	sneha.kaur724@example.com	MSc	2016	0.2	inactive since graduation
+725	Raj Mishra	raj.mishra725@example.com	PhD	2005	0.83	regular donor
+726	Rohit Jain	rohit.jain726@example.com	BA	2019	0.42	donated in past, attends reunions
+727	Pooja Pillai	pooja.pillai727@example.com	BSc	2007	0.69	occasionally donates
+728	Nikhil Desai	nikhil.desai728@example.com	BTech	2010	0.63	regular donor
+729	Rohit Chopra	rohit.chopra729@example.com	MBA	2015	0.59	attended 10-year reunion
+730	Ravi Pillai	ravi.pillai730@example.com	BA	2020	0.18	occasionally donates
+731	Manish Iyer	manish.iyer731@example.com	BA	2012	0.92	occasionally donates
+732	Priya Iyer	priya.iyer732@example.com	LLB	2011	0.8	attended 10-year reunion
+733	Deepak Jain	deepak.jain733@example.com	MA	2004	0.73	career mentor
+734	Ravi Sharma	ravi.sharma734@example.com	BA	2014	0.13	occasionally donates
+735	Anita Desai	anita.desai735@example.com	MSc	2022	0.51	attended 10-year reunion
+736	Ravi Iyer	ravi.iyer736@example.com	CA	2014	0.13	mentoring students, active alumni
+737	Anita Nair	anita.nair737@example.com	BTech	2015	0.51	regular donor
+738	Komal Gupta	komal.gupta738@example.com	BTech	2020	0.88	volunteers for alumni programs
+739	Priya Pillai	priya.pillai739@example.com	MSc	2019	0.76	inactive since graduation
+740	Raj Iyer	raj.iyer740@example.com	MA	2006	0.6	occasionally donates
+741	Neha Gupta	neha.gupta741@example.com	PhD	2022	0.19	donated in past, attends reunions
+742	Kiran Gupta	kiran.gupta742@example.com	MA	2019	0.76	inactive since graduation
+743	Anita Gupta	anita.gupta743@example.com	BTech	2023	0.8	inactive since graduation
+744	Arjun Malhotra	arjun.malhotra744@example.com	BSc	2009	0.51	donated in past, attends reunions
+745	Nikhil Verma	nikhil.verma745@example.com	CA	2011	0.19	volunteers for alumni programs
+746	Rohit Malhotra	rohit.malhotra746@example.com	MBA	2000	0.2	career mentor
+747	Manish Verma	manish.verma747@example.com	BTech	2000	0.96	occasionally donates
+748	Meera Iyer	meera.iyer748@example.com	LLB	2005	0.32	volunteers for alumni programs
+749	Ravi Nair	ravi.nair749@example.com	MA	2016	0.55	regular donor
+750	Arjun Agarwal	arjun.agarwal750@example.com	BSc	2018	0.33	volunteers for alumni programs
+751	Sonia Verma	sonia.verma751@example.com	MTech	2011	0.26	career mentor
+752	Pooja Mehta	pooja.mehta752@example.com	MSc	2011	0.36	volunteers for alumni programs
+753	Priya Sharma	priya.sharma753@example.com	BSc	2020	0.26	no past donations
+754	Pooja Mehta	pooja.mehta754@example.com	PhD	2018	0.57	career mentor
+755	Anita Reddy	anita.reddy755@example.com	MTech	2023	0.73	attended 10-year reunion
+756	Meera Pillai	meera.pillai756@example.com	PhD	2005	0.94	volunteers for alumni programs
+757	Amit Iyer	amit.iyer757@example.com	MTech	2021	0.33	frequent event attendee
+758	Manish Desai	manish.desai758@example.com	PhD	2024	0.58	donated in past, attends reunions
+759	Arjun Gupta	arjun.gupta759@example.com	LLB	2015	0.81	regular donor
+760	Meera Iyer	meera.iyer760@example.com	MTech	2023	0.47	career mentor
+761	Sneha Bose	sneha.bose761@example.com	BSc	2001	0.1	donated in past, attends reunions
+762	Sunil Gupta	sunil.gupta762@example.com	BSc	2022	0.04	no past donations
+763	Vikram Desai	vikram.desai763@example.com	MBA	2005	0.48	inactive since graduation
+764	Meera Bose	meera.bose764@example.com	MA	2023	0.45	career mentor
+765	Nikhil Das	nikhil.das765@example.com	BSc	2021	0.73	occasionally donates
+766	Komal Mishra	komal.mishra766@example.com	MSc	2023	0.44	no past donations
+767	Meera Das	meera.das767@example.com	BSc	2001	0.59	volunteers for alumni programs
+768	Kiran Desai	kiran.desai768@example.com	CA	2006	0.74	volunteers for alumni programs
+769	Komal Pillai	komal.pillai769@example.com	MA	2015	0.91	frequent event attendee
+770	Sonia Nair	sonia.nair770@example.com	PhD	2007	0.17	donated in past, attends reunions
+771	Sunil Kaur	sunil.kaur771@example.com	MA	2022	0.01	donated in past, attends reunions
+772	Vikram Das	vikram.das772@example.com	LLB	2014	0.28	no past donations
+773	Meera Verma	meera.verma773@example.com	LLB	2008	0.35	no past donations
+774	Amit Khanna	amit.khanna774@example.com	BTech	2014	0.82	frequent event attendee
+775	Raj Agarwal	raj.agarwal775@example.com	MSc	2002	0.72	frequent event attendee
+776	Sonia Gupta	sonia.gupta776@example.com	LLB	2004	0.93	inactive since graduation
+777	Kiran Sharma	kiran.sharma777@example.com	BA	2007	0.61	frequent event attendee
+778	Vikram Patel	vikram.patel778@example.com	MSc	2014	0.77	volunteers for alumni programs
+779	Deepak Desai	deepak.desai779@example.com	BSc	2012	0.52	inactive since graduation
+780	Vikram Chopra	vikram.chopra780@example.com	MA	2012	0.55	donated in past, attends reunions
+781	Raj Khanna	raj.khanna781@example.com	BTech	2023	0.23	mentoring students, active alumni
+782	Meera Khanna	meera.khanna782@example.com	BTech	2012	0.16	attended 10-year reunion
+783	Priya Iyer	priya.iyer783@example.com	MTech	2003	0.46	career mentor
+784	Arjun Mehta	arjun.mehta784@example.com	BSc	2019	0.5	mentoring students, active alumni
+785	Varun Sharma	varun.sharma785@example.com	PhD	2021	0.7	frequent event attendee
+786	Sunil Reddy	sunil.reddy786@example.com	PhD	2019	0.3	regular donor
+787	Meera Khanna	meera.khanna787@example.com	MA	2020	0.09	donated in past, attends reunions
+788	Rohit Chopra	rohit.chopra788@example.com	LLB	2005	0.46	mentoring students, active alumni
+789	Deepak Iyer	deepak.iyer789@example.com	MA	2014	0.8	frequent event attendee
+790	Arjun Chopra	arjun.chopra790@example.com	CA	2005	0.73	regular donor
+791	Pooja Sharma	pooja.sharma791@example.com	LLB	2012	0.14	inactive since graduation
+792	Meera Malhotra	meera.malhotra792@example.com	BA	2009	0.7	occasionally donates
+793	Rohit Desai	rohit.desai793@example.com	CA	2022	0.74	inactive since graduation
+794	Kiran Khanna	kiran.khanna794@example.com	LLB	2000	0.09	occasionally donates
+795	Raj Nair	raj.nair795@example.com	CA	2014	0.8	frequent event attendee
+796	Amit Jain	amit.jain796@example.com	MSc	2012	0.77	frequent event attendee
+797	Varun Iyer	varun.iyer797@example.com	LLB	2022	0.92	volunteers for alumni programs
+798	Sunil Verma	sunil.verma798@example.com	MTech	2022	0.09	attended 10-year reunion
+799	Arjun Sharma	arjun.sharma799@example.com	PhD	2007	0.71	career mentor
+800	Raj Iyer	raj.iyer800@example.com	MBA	2020	0.26	mentoring students, active alumni
+801	Amit Patel	amit.patel801@example.com	BSc	2005	0.42	attended 10-year reunion
+802	Nikhil Iyer	nikhil.iyer802@example.com	MSc	2015	0.55	occasionally donates
+803	Manish Pillai	manish.pillai803@example.com	PhD	2010	0.88	no past donations
+804	Varun Malhotra	varun.malhotra804@example.com	MBA	2004	0.96	regular donor
+805	Vikram Sharma	vikram.sharma805@example.com	BSc	2020	0.71	regular donor
+806	Arjun Jain	arjun.jain806@example.com	LLB	2010	0.82	regular donor
+807	Nikhil Patel	nikhil.patel807@example.com	BA	2020	0.16	career mentor
+808	Raj Kaur	raj.kaur808@example.com	BSc	2019	0.89	career mentor
+809	Amit Agarwal	amit.agarwal809@example.com	BTech	2015	0.15	occasionally donates
+810	Nikhil Khanna	nikhil.khanna810@example.com	MSc	2011	0.43	donated in past, attends reunions
+811	Neha Mishra	neha.mishra811@example.com	BTech	2011	0.04	career mentor
+812	Meera Pillai	meera.pillai812@example.com	LLB	2007	0.62	regular donor
+813	Amit Kaur	amit.kaur813@example.com	PhD	2016	0.42	donated in past, attends reunions
+814	Kiran Iyer	kiran.iyer814@example.com	BA	2013	0.13	inactive since graduation
+815	Priya Patel	priya.patel815@example.com	LLB	2009	0.31	volunteers for alumni programs
+816	Pooja Pillai	pooja.pillai816@example.com	MBA	2017	0.05	occasionally donates
+817	Priya Nair	priya.nair817@example.com	MA	2003	0.85	mentoring students, active alumni
+818	Neha Malhotra	neha.malhotra818@example.com	MSc	2013	0.07	no past donations
+819	Kiran Gupta	kiran.gupta819@example.com	CA	2011	0.16	volunteers for alumni programs
+820	Rohit Verma	rohit.verma820@example.com	BA	2003	0.69	inactive since graduation
+821	Ravi Das	ravi.das821@example.com	MBA	2000	0.66	mentoring students, active alumni
+822	Vikram Verma	vikram.verma822@example.com	PhD	2020	0.26	inactive since graduation
+823	Priya Verma	priya.verma823@example.com	MA	2008	0.63	volunteers for alumni programs
+824	Amit Agarwal	amit.agarwal824@example.com	PhD	2014	0.97	mentoring students, active alumni
+825	Meera Bose	meera.bose825@example.com	MTech	2001	0.33	regular donor
+826	Neha Bose	neha.bose826@example.com	MSc	2006	0.57	no past donations
+827	Sunil Gupta	sunil.gupta827@example.com	BSc	2004	0.12	career mentor
+828	Nikhil Jain	nikhil.jain828@example.com	PhD	2013	0.75	inactive since graduation
+829	Sonia Jain	sonia.jain829@example.com	MA	2007	0.23	inactive since graduation
+830	Sneha Bose	sneha.bose830@example.com	MTech	2017	0.38	volunteers for alumni programs
+831	Sonia Mehta	sonia.mehta831@example.com	BTech	2018	0.81	inactive since graduation
+832	Rohit Khanna	rohit.khanna832@example.com	MA	2020	0.03	attended 10-year reunion
+833	Neha Chopra	neha.chopra833@example.com	MBA	2005	0.74	attended 10-year reunion
+834	Komal Jain	komal.jain834@example.com	BA	2005	0.2	inactive since graduation
+835	Ravi Verma	ravi.verma835@example.com	BSc	2011	0.48	inactive since graduation
+836	Deepak Pillai	deepak.pillai836@example.com	BTech	2015	0.27	attended 10-year reunion
+837	Raj Chopra	raj.chopra837@example.com	CA	2020	0.68	career mentor
+838	Pooja Mehta	pooja.mehta838@example.com	PhD	2016	0.77	mentoring students, active alumni
+839	Rohit Khanna	rohit.khanna839@example.com	BTech	2016	0.48	career mentor
+840	Amit Mishra	amit.mishra840@example.com	BSc	2001	0.53	mentoring students, active alumni
+841	Neha Pillai	neha.pillai841@example.com	BA	2002	0.87	inactive since graduation
+842	Komal Singh	komal.singh842@example.com	BA	2024	0.66	regular donor
+843	Raj Gupta	raj.gupta843@example.com	CA	2003	0.07	frequent event attendee
+844	Nikhil Pillai	nikhil.pillai844@example.com	BTech	2011	0.81	mentoring students, active alumni
+845	Neha Malhotra	neha.malhotra845@example.com	MBA	2015	0.06	volunteers for alumni programs
+846	Meera Desai	meera.desai846@example.com	PhD	2013	0.61	frequent event attendee
+847	Nikhil Singh	nikhil.singh847@example.com	MSc	2014	0.94	inactive since graduation
+848	Meera Mishra	meera.mishra848@example.com	MA	2001	0.46	volunteers for alumni programs
+849	Priya Das	priya.das849@example.com	MA	2010	0.15	no past donations
+850	Kiran Chopra	kiran.chopra850@example.com	BA	2009	0.98	donated in past, attends reunions
+851	Deepak Singh	deepak.singh851@example.com	MA	2004	0.69	attended 10-year reunion
+852	Sunil Malhotra	sunil.malhotra852@example.com	LLB	2019	0.39	inactive since graduation
+853	Manish Singh	manish.singh853@example.com	BA	2019	0.83	regular donor
+854	Anita Kaur	anita.kaur854@example.com	MBA	2006	0.56	career mentor
+855	Rohit Agarwal	rohit.agarwal855@example.com	LLB	2021	0.24	volunteers for alumni programs
+856	Raj Kaur	raj.kaur856@example.com	MA	2009	0.26	mentoring students, active alumni
+857	Vikram Agarwal	vikram.agarwal857@example.com	LLB	2017	0.47	occasionally donates
+858	Nikhil Sharma	nikhil.sharma858@example.com	CA	2005	0.69	career mentor
+859	Deepak Khanna	deepak.khanna859@example.com	LLB	2009	0.23	inactive since graduation
+860	Sneha Mehta	sneha.mehta860@example.com	MSc	2017	0.23	volunteers for alumni programs
+861	Raj Das	raj.das861@example.com	MTech	2008	0.67	no past donations
+862	Varun Gupta	varun.gupta862@example.com	CA	2024	1	frequent event attendee
+863	Rohit Malhotra	rohit.malhotra863@example.com	BSc	2013	0.98	no past donations
+864	Raj Iyer	raj.iyer864@example.com	MA	2021	0.32	mentoring students, active alumni
+865	Komal Sharma	komal.sharma865@example.com	MA	2013	0.65	no past donations
+866	Raj Singh	raj.singh866@example.com	BSc	2024	0.86	no past donations
+867	Varun Kaur	varun.kaur867@example.com	LLB	2014	0.06	frequent event attendee
+868	Pooja Malhotra	pooja.malhotra868@example.com	LLB	2000	0.52	occasionally donates
+869	Kiran Reddy	kiran.reddy869@example.com	CA	2011	0.97	no past donations
+870	Manish Mishra	manish.mishra870@example.com	BSc	2005	0.96	volunteers for alumni programs
+871	Amit Malhotra	amit.malhotra871@example.com	BSc	2014	0.28	inactive since graduation
+872	Neha Agarwal	neha.agarwal872@example.com	PhD	2010	0.45	attended 10-year reunion
+873	Neha Patel	neha.patel873@example.com	MBA	2009	0.39	regular donor
+874	Sneha Khanna	sneha.khanna874@example.com	BTech	2002	0.59	donated in past, attends reunions
+875	Sonia Jain	sonia.jain875@example.com	MSc	2016	0.37	inactive since graduation
+876	Neha Reddy	neha.reddy876@example.com	BSc	2024	0.02	mentoring students, active alumni
+877	Ravi Khanna	ravi.khanna877@example.com	BTech	2014	0.45	no past donations
+878	Rohit Iyer	rohit.iyer878@example.com	BSc	2016	0.87	volunteers for alumni programs
+879	Sonia Patel	sonia.patel879@example.com	BSc	2008	0.19	attended 10-year reunion
+880	Ravi Pillai	ravi.pillai880@example.com	MA	2003	0.46	frequent event attendee
+881	Kiran Malhotra	kiran.malhotra881@example.com	MTech	2019	0.97	regular donor
+882	Sonia Sharma	sonia.sharma882@example.com	BSc	2014	0.44	frequent event attendee
+883	Raj Verma	raj.verma883@example.com	MTech	2011	0.74	inactive since graduation
+884	Deepak Mehta	deepak.mehta884@example.com	PhD	2009	0.08	career mentor
+885	Vikram Gupta	vikram.gupta885@example.com	BTech	2018	0.23	attended 10-year reunion
+886	Sonia Chopra	sonia.chopra886@example.com	PhD	2007	0.87	donated in past, attends reunions
+887	Neha Reddy	neha.reddy887@example.com	BSc	2019	0.84	volunteers for alumni programs
+888	Ravi Nair	ravi.nair888@example.com	LLB	2003	0.78	mentoring students, active alumni
+889	Rohit Sharma	rohit.sharma889@example.com	MBA	2020	0.96	attended 10-year reunion
+890	Kiran Mishra	kiran.mishra890@example.com	LLB	2024	0.08	attended 10-year reunion
+891	Manish Gupta	manish.gupta891@example.com	MA	2016	0.32	occasionally donates
+892	Neha Sharma	neha.sharma892@example.com	BSc	2017	0.88	donated in past, attends reunions
+893	Pooja Sharma	pooja.sharma893@example.com	MBA	2002	0.07	frequent event attendee
+894	Vikram Verma	vikram.verma894@example.com	MSc	2013	0.57	career mentor
+895	Ravi Patel	ravi.patel895@example.com	MSc	2022	0.66	career mentor
+896	Manish Das	manish.das896@example.com	MBA	2010	0.81	attended 10-year reunion
+897	Amit Khanna	amit.khanna897@example.com	BTech	2022	0.67	frequent event attendee
+898	Amit Mehta	amit.mehta898@example.com	BSc	2011	0.48	occasionally donates
+899	Ravi Pillai	ravi.pillai899@example.com	MTech	2004	0.2	occasionally donates
+900	Nikhil Verma	nikhil.verma900@example.com	BA	2024	0.47	career mentor
+901	Priya Chopra	priya.chopra901@example.com	MTech	2004	0.19	frequent event attendee
+902	Komal Kaur	komal.kaur902@example.com	BA	2004	0.61	mentoring students, active alumni
+903	Pooja Nair	pooja.nair903@example.com	MSc	2013	0.79	volunteers for alumni programs
+904	Arjun Pillai	arjun.pillai904@example.com	MA	2024	0.14	inactive since graduation
+905	Vikram Jain	vikram.jain905@example.com	BSc	2024	0.94	mentoring students, active alumni
+906	Pooja Das	pooja.das906@example.com	PhD	2011	0.23	frequent event attendee
+907	Manish Kaur	manish.kaur907@example.com	BSc	2010	0.2	occasionally donates
+908	Arjun Patel	arjun.patel908@example.com	PhD	2020	0.73	attended 10-year reunion
+909	Kiran Bose	kiran.bose909@example.com	MA	2020	0.16	volunteers for alumni programs
+910	Anita Singh	anita.singh910@example.com	BTech	2020	0.36	donated in past, attends reunions
+911	Ravi Chopra	ravi.chopra911@example.com	MBA	2003	0.02	regular donor
+912	Anita Mehta	anita.mehta912@example.com	MA	2005	1	career mentor
+913	Nikhil Bose	nikhil.bose913@example.com	MA	2023	0.55	career mentor
+914	Deepak Gupta	deepak.gupta914@example.com	MBA	2019	0.45	volunteers for alumni programs
+915	Arjun Pillai	arjun.pillai915@example.com	MTech	2004	0.31	attended 10-year reunion
+916	Ravi Pillai	ravi.pillai916@example.com	BA	2015	0.36	career mentor
+917	Nikhil Iyer	nikhil.iyer917@example.com	PhD	2022	0.37	inactive since graduation
+918	Rohit Gupta	rohit.gupta918@example.com	MBA	2016	0.42	regular donor
+919	Nikhil Mehta	nikhil.mehta919@example.com	BTech	2019	0.06	mentoring students, active alumni
+920	Anita Khanna	anita.khanna920@example.com	MSc	2001	0.77	career mentor
+921	Sunil Khanna	sunil.khanna921@example.com	MSc	2002	0.85	inactive since graduation
+922	Vikram Chopra	vikram.chopra922@example.com	MA	2014	0.66	no past donations
+923	Vikram Mishra	vikram.mishra923@example.com	MBA	2020	0.82	career mentor
+924	Komal Singh	komal.singh924@example.com	LLB	2007	0.2	mentoring students, active alumni
+925	Neha Singh	neha.singh925@example.com	LLB	2005	0.75	volunteers for alumni programs
+926	Meera Bose	meera.bose926@example.com	LLB	2009	0.49	occasionally donates
+927	Sunil Singh	sunil.singh927@example.com	MTech	2006	0.49	occasionally donates
+928	Meera Iyer	meera.iyer928@example.com	BSc	2008	0.75	no past donations
+929	Sonia Nair	sonia.nair929@example.com	BSc	2015	0.42	regular donor
+930	Amit Kaur	amit.kaur930@example.com	MA	2012	0.04	frequent event attendee
+931	Rohit Desai	rohit.desai931@example.com	PhD	2000	0.97	donated in past, attends reunions
+932	Sunil Gupta	sunil.gupta932@example.com	BA	2009	0.37	donated in past, attends reunions
+933	Sonia Singh	sonia.singh933@example.com	LLB	2024	0.26	attended 10-year reunion
+934	Anita Chopra	anita.chopra934@example.com	MA	2004	0.01	occasionally donates
+935	Ravi Singh	ravi.singh935@example.com	LLB	2011	0.64	career mentor
+936	Arjun Nair	arjun.nair936@example.com	CA	2015	0.66	attended 10-year reunion
+937	Ravi Mehta	ravi.mehta937@example.com	LLB	2024	0.05	donated in past, attends reunions
+938	Rohit Iyer	rohit.iyer938@example.com	MSc	2021	0.44	mentoring students, active alumni
+939	Sunil Pillai	sunil.pillai939@example.com	BSc	2003	0.48	frequent event attendee
+940	Arjun Nair	arjun.nair940@example.com	PhD	2003	0.14	no past donations
+941	Pooja Mehta	pooja.mehta941@example.com	BA	2010	0.87	inactive since graduation
+942	Sneha Malhotra	sneha.malhotra942@example.com	MTech	2012	0.36	frequent event attendee
+943	Rohit Malhotra	rohit.malhotra943@example.com	LLB	2018	0.26	career mentor
+944	Manish Nair	manish.nair944@example.com	PhD	2004	0.67	donated in past, attends reunions
+945	Komal Verma	komal.verma945@example.com	MBA	2020	0.58	volunteers for alumni programs
+946	Vikram Patel	vikram.patel946@example.com	BA	2000	0.35	no past donations
+947	Sunil Mehta	sunil.mehta947@example.com	MBA	2001	0.5	mentoring students, active alumni
+948	Komal Agarwal	komal.agarwal948@example.com	BSc	2013	0.42	occasionally donates
+949	Vikram Malhotra	vikram.malhotra949@example.com	BTech	2003	0.47	inactive since graduation
+950	Amit Verma	amit.verma950@example.com	CA	2001	0.16	career mentor
+951	Nikhil Sharma	nikhil.sharma951@example.com	BTech	2013	0.16	mentoring students, active alumni
+952	Sunil Khanna	sunil.khanna952@example.com	MBA	2001	0.26	inactive since graduation
+953	Sunil Jain	sunil.jain953@example.com	MTech	2016	0.84	frequent event attendee
+954	Komal Sharma	komal.sharma954@example.com	CA	2016	0.04	mentoring students, active alumni
+955	Komal Mishra	komal.mishra955@example.com	MTech	2009	0.62	donated in past, attends reunions
+956	Meera Desai	meera.desai956@example.com	MTech	2004	0.24	occasionally donates
+957	Neha Iyer	neha.iyer957@example.com	MSc	2018	0.64	no past donations
+958	Sunil Iyer	sunil.iyer958@example.com	BA	2014	0.35	volunteers for alumni programs
+959	Deepak Patel	deepak.patel959@example.com	MBA	2016	0.07	donated in past, attends reunions
+960	Komal Nair	komal.nair960@example.com	LLB	2010	0.53	frequent event attendee
+961	Deepak Mishra	deepak.mishra961@example.com	MA	2001	0.83	mentoring students, active alumni
+962	Deepak Chopra	deepak.chopra962@example.com	MTech	2000	0.37	donated in past, attends reunions
+963	Sonia Sharma	sonia.sharma963@example.com	CA	2005	0.63	donated in past, attends reunions
+964	Rohit Malhotra	rohit.malhotra964@example.com	MA	2024	0.85	volunteers for alumni programs
+965	Amit Iyer	amit.iyer965@example.com	MSc	2017	0.8	inactive since graduation
+966	Anita Singh	anita.singh966@example.com	LLB	2024	0.28	regular donor
+967	Neha Nair	neha.nair967@example.com	MBA	2004	0.38	donated in past, attends reunions
+968	Sneha Nair	sneha.nair968@example.com	CA	2015	0.74	volunteers for alumni programs
+969	Deepak Jain	deepak.jain969@example.com	MBA	2001	0.25	no past donations
+970	Raj Singh	raj.singh970@example.com	MBA	2024	0.54	inactive since graduation
+971	Varun Kaur	varun.kaur971@example.com	MSc	2009	0.59	frequent event attendee
+972	Pooja Jain	pooja.jain972@example.com	MSc	2004	0.9	inactive since graduation
+973	Manish Das	manish.das973@example.com	LLB	2013	0.97	frequent event attendee
+974	Manish Das	manish.das974@example.com	BA	2006	0.14	occasionally donates
+975	Ravi Agarwal	ravi.agarwal975@example.com	LLB	2008	0.66	inactive since graduation
+976	Varun Singh	varun.singh976@example.com	LLB	2008	0.21	career mentor
+977	Manish Reddy	manish.reddy977@example.com	LLB	2019	0.14	regular donor
+978	Kiran Nair	kiran.nair978@example.com	MSc	2000	0.79	inactive since graduation
+979	Priya Khanna	priya.khanna979@example.com	PhD	2020	0.6	volunteers for alumni programs
+980	Priya Bose	priya.bose980@example.com	MSc	2006	0.02	inactive since graduation
+981	Neha Bose	neha.bose981@example.com	BTech	2001	0.49	donated in past, attends reunions
+982	Deepak Patel	deepak.patel982@example.com	MBA	2008	0.25	occasionally donates
+983	Amit Agarwal	amit.agarwal983@example.com	PhD	2023	0.61	occasionally donates
+984	Raj Mishra	raj.mishra984@example.com	CA	2015	0.68	mentoring students, active alumni
+985	Nikhil Patel	nikhil.patel985@example.com	LLB	2012	0.23	attended 10-year reunion
+986	Arjun Gupta	arjun.gupta986@example.com	BA	2016	0.83	volunteers for alumni programs
+987	Deepak Gupta	deepak.gupta987@example.com	LLB	2008	0.71	career mentor
+988	Ravi Mishra	ravi.mishra988@example.com	MA	2005	0.68	no past donations
+989	Rohit Iyer	rohit.iyer989@example.com	BTech	2021	0.44	attended 10-year reunion
+990	Rohit Desai	rohit.desai990@example.com	MA	2016	0.45	attended 10-year reunion
+991	Sneha Desai	sneha.desai991@example.com	MTech	2009	0.85	frequent event attendee
+992	Amit Chopra	amit.chopra992@example.com	BA	2008	0.08	no past donations
+993	Sonia Jain	sonia.jain993@example.com	PhD	2010	0.12	attended 10-year reunion
+994	Arjun Malhotra	arjun.malhotra994@example.com	LLB	2019	0.42	frequent event attendee
+995	Manish Das	manish.das995@example.com	BA	2022	0.4	frequent event attendee
+996	Rohit Desai	rohit.desai996@example.com	CA	2009	0.25	regular donor
+997	Kiran Gupta	kiran.gupta997@example.com	CA	2023	0.6	mentoring students, active alumni
+998	Kiran Mishra	kiran.mishra998@example.com	BTech	2014	0.59	no past donations
+999	Pooja Singh	pooja.singh999@example.com	BA	2016	0.03	attended 10-year reunion
+1000	Deepak Verma	deepak.verma1000@example.com	MA	2024	0.97	career mentor
+1001	Vikram Das	vikram.das1001@example.com	MSc	2001	0.75	no past donations
+1002	Sunil Gupta	sunil.gupta1002@example.com	BTech	2014	0.29	mentoring students, active alumni
+1003	Priya Reddy	priya.reddy1003@example.com	MSc	2018	0.86	no past donations
+1004	Rohit Das	rohit.das1004@example.com	LLB	2021	0.87	occasionally donates
+1005	Priya Jain	priya.jain1005@example.com	MBA	2015	0.27	inactive since graduation
+1006	Amit Chopra	amit.chopra1006@example.com	BSc	2013	0.08	frequent event attendee
+1007	Neha Mishra	neha.mishra1007@example.com	CA	2011	0.18	career mentor
+1008	Komal Desai	komal.desai1008@example.com	BA	2021	0.5	donated in past, attends reunions
+1009	Nikhil Sharma	nikhil.sharma1009@example.com	MSc	2020	0.62	regular donor
+1010	Amit Desai	amit.desai1010@example.com	MBA	2000	0.19	career mentor
+1011	Meera Gupta	meera.gupta1011@example.com	MTech	2020	0.79	volunteers for alumni programs
+1012	Ravi Reddy	ravi.reddy1012@example.com	CA	2015	0.3	no past donations
+1013	Deepak Patel	deepak.patel1013@example.com	BSc	2020	0.31	no past donations
+1014	Manish Chopra	manish.chopra1014@example.com	CA	2002	0.28	occasionally donates
+1015	Nikhil Mishra	nikhil.mishra1015@example.com	LLB	2015	0.63	frequent event attendee
+1016	Sunil Reddy	sunil.reddy1016@example.com	MSc	2006	0.31	mentoring students, active alumni
+1017	Neha Jain	neha.jain1017@example.com	BA	2004	0.29	inactive since graduation
+1018	Priya Malhotra	priya.malhotra1018@example.com	BSc	2010	0.84	frequent event attendee
+1019	Sneha Reddy	sneha.reddy1019@example.com	MTech	2007	0.28	career mentor
+1020	Kiran Mishra	kiran.mishra1020@example.com	MA	2005	0.32	donated in past, attends reunions
+1021	Priya Desai	priya.desai1021@example.com	CA	2006	0.05	career mentor
+1022	Pooja Mishra	pooja.mishra1022@example.com	PhD	2019	0.38	donated in past, attends reunions
+1023	Deepak Reddy	deepak.reddy1023@example.com	MTech	2003	0.41	occasionally donates
+1024	Meera Verma	meera.verma1024@example.com	MTech	2015	0.36	inactive since graduation
+1025	Ravi Mishra	ravi.mishra1025@example.com	MSc	2003	0.71	regular donor
+1026	Nikhil Verma	nikhil.verma1026@example.com	MA	2019	0.59	no past donations
+1027	Kiran Khanna	kiran.khanna1027@example.com	CA	2020	0.33	frequent event attendee
+1028	Pooja Mishra	pooja.mishra1028@example.com	BTech	2001	0.91	occasionally donates
+1029	Sneha Jain	sneha.jain1029@example.com	MTech	2011	0.41	career mentor
+1030	Rohit Sharma	rohit.sharma1030@example.com	BSc	2004	0.37	donated in past, attends reunions
+1031	Kiran Kaur	kiran.kaur1031@example.com	MTech	2018	0.02	volunteers for alumni programs
+1032	Anita Sharma	anita.sharma1032@example.com	CA	2003	0.37	donated in past, attends reunions
+1033	Neha Das	neha.das1033@example.com	BA	2015	0.55	volunteers for alumni programs
+1034	Vikram Malhotra	vikram.malhotra1034@example.com	MSc	2004	0.69	inactive since graduation
+1035	Anita Iyer	anita.iyer1035@example.com	MTech	2007	0.67	no past donations
+1036	Neha Chopra	neha.chopra1036@example.com	MBA	2007	0.68	inactive since graduation
+1037	Varun Khanna	varun.khanna1037@example.com	MSc	2005	0.44	regular donor
+1038	Meera Pillai	meera.pillai1038@example.com	BA	2006	0.96	donated in past, attends reunions
+1039	Arjun Bose	arjun.bose1039@example.com	PhD	2020	1	regular donor
+1040	Deepak Khanna	deepak.khanna1040@example.com	MTech	2009	0.04	frequent event attendee
+1041	Varun Kaur	varun.kaur1041@example.com	PhD	2010	0.89	donated in past, attends reunions
+1042	Manish Jain	manish.jain1042@example.com	MA	2016	0.39	volunteers for alumni programs
+1043	Anita Agarwal	anita.agarwal1043@example.com	MBA	2014	0.72	donated in past, attends reunions
+1044	Sneha Agarwal	sneha.agarwal1044@example.com	MA	2024	0.44	donated in past, attends reunions
+1045	Sunil Desai	sunil.desai1045@example.com	PhD	2013	0.57	occasionally donates
+1046	Priya Kaur	priya.kaur1046@example.com	MTech	2016	0.48	regular donor
+1047	Deepak Malhotra	deepak.malhotra1047@example.com	BSc	2000	0.37	occasionally donates
+1048	Anita Iyer	anita.iyer1048@example.com	CA	2011	0.59	occasionally donates
+1049	Priya Malhotra	priya.malhotra1049@example.com	MTech	2013	0.81	regular donor
+1050	Manish Bose	manish.bose1050@example.com	MA	2009	0.99	occasionally donates
+1051	Vikram Sharma	vikram.sharma1051@example.com	BTech	2000	0.22	donated in past, attends reunions
+1052	Sunil Reddy	sunil.reddy1052@example.com	MA	2013	0.9	donated in past, attends reunions
+1053	Pooja Agarwal	pooja.agarwal1053@example.com	PhD	2000	0.05	regular donor
+1054	Manish Mehta	manish.mehta1054@example.com	BSc	2010	0.47	mentoring students, active alumni
+1055	Nikhil Mishra	nikhil.mishra1055@example.com	BA	2010	0.1	occasionally donates
+1056	Deepak Nair	deepak.nair1056@example.com	MA	2014	0.03	frequent event attendee
+1057	Meera Chopra	meera.chopra1057@example.com	MA	2000	0.77	attended 10-year reunion
+1058	Varun Iyer	varun.iyer1058@example.com	LLB	2008	0.64	regular donor
+1059	Raj Reddy	raj.reddy1059@example.com	BTech	2019	0.01	no past donations
+1060	Komal Patel	komal.patel1060@example.com	BSc	2008	0.13	regular donor
+1061	Pooja Iyer	pooja.iyer1061@example.com	BA	2004	0.19	attended 10-year reunion
+1062	Sneha Sharma	sneha.sharma1062@example.com	LLB	2022	0.89	mentoring students, active alumni
+1063	Rohit Desai	rohit.desai1063@example.com	MA	2018	0.31	mentoring students, active alumni
+1064	Ravi Nair	ravi.nair1064@example.com	LLB	2021	0.69	mentoring students, active alumni
+1065	Priya Agarwal	priya.agarwal1065@example.com	MA	2016	0.94	occasionally donates
+1066	Sunil Verma	sunil.verma1066@example.com	PhD	2014	0.19	occasionally donates
+1067	Amit Kaur	amit.kaur1067@example.com	BSc	2000	0.98	inactive since graduation
+1068	Nikhil Jain	nikhil.jain1068@example.com	CA	2014	0.19	volunteers for alumni programs
+1069	Ravi Sharma	ravi.sharma1069@example.com	MTech	2020	0.53	mentoring students, active alumni
+1070	Arjun Bose	arjun.bose1070@example.com	MBA	2019	0.92	career mentor
+1071	Anita Iyer	anita.iyer1071@example.com	MTech	2003	0.77	donated in past, attends reunions
+1072	Meera Verma	meera.verma1072@example.com	BSc	2011	0.9	inactive since graduation
+1073	Sonia Reddy	sonia.reddy1073@example.com	LLB	2024	0.19	occasionally donates
+1074	Priya Singh	priya.singh1074@example.com	MTech	2013	0.58	no past donations
+1075	Sneha Jain	sneha.jain1075@example.com	PhD	2013	0.96	regular donor
+1076	Rohit Khanna	rohit.khanna1076@example.com	BA	2024	0.97	volunteers for alumni programs
+1077	Nikhil Mehta	nikhil.mehta1077@example.com	BTech	2004	0.68	no past donations
+1078	Arjun Das	arjun.das1078@example.com	MSc	2010	0.65	inactive since graduation
+1079	Sunil Desai	sunil.desai1079@example.com	BA	2016	0.21	frequent event attendee
+1080	Anita Sharma	anita.sharma1080@example.com	CA	2002	0.88	frequent event attendee
+1081	Kiran Verma	kiran.verma1081@example.com	MBA	2024	0.73	mentoring students, active alumni
+1082	Rohit Patel	rohit.patel1082@example.com	PhD	2022	0.82	donated in past, attends reunions
+1083	Meera Mishra	meera.mishra1083@example.com	MBA	2021	0.66	inactive since graduation
+1084	Neha Patel	neha.patel1084@example.com	BTech	2011	0.32	frequent event attendee
+1085	Sonia Mehta	sonia.mehta1085@example.com	BSc	2011	0.14	attended 10-year reunion
+1086	Ravi Patel	ravi.patel1086@example.com	BSc	2002	0.63	no past donations
+1087	Amit Mishra	amit.mishra1087@example.com	PhD	2003	0.18	occasionally donates
+1088	Varun Agarwal	varun.agarwal1088@example.com	BTech	2021	0.91	occasionally donates
+1089	Ravi Khanna	ravi.khanna1089@example.com	CA	2024	0.5	attended 10-year reunion
+1090	Sonia Mishra	sonia.mishra1090@example.com	MSc	2024	0.45	mentoring students, active alumni
+1091	Neha Malhotra	neha.malhotra1091@example.com	BTech	2019	0.94	mentoring students, active alumni
+1092	Komal Pillai	komal.pillai1092@example.com	MA	2000	0.55	occasionally donates
+1093	Vikram Chopra	vikram.chopra1093@example.com	MA	2003	0.25	career mentor
+1094	Meera Gupta	meera.gupta1094@example.com	MBA	2006	0.26	occasionally donates
+1095	Ravi Mehta	ravi.mehta1095@example.com	MA	2010	0.63	volunteers for alumni programs
+1096	Sonia Jain	sonia.jain1096@example.com	PhD	2021	0.86	donated in past, attends reunions
+1097	Nikhil Bose	nikhil.bose1097@example.com	MTech	2016	0.51	frequent event attendee
+1098	Vikram Agarwal	vikram.agarwal1098@example.com	PhD	2007	0.38	donated in past, attends reunions
+1099	Meera Mehta	meera.mehta1099@example.com	MTech	2000	0.97	regular donor
+1100	Nikhil Agarwal	nikhil.agarwal1100@example.com	PhD	2005	0.51	frequent event attendee
+1101	Neha Agarwal	neha.agarwal1101@example.com	MSc	2007	0.75	volunteers for alumni programs
+1102	Kiran Agarwal	kiran.agarwal1102@example.com	BTech	2024	0.18	occasionally donates
+1103	Komal Das	komal.das1103@example.com	MBA	2004	0.87	donated in past, attends reunions
+1104	Deepak Das	deepak.das1104@example.com	PhD	2018	0.49	frequent event attendee
+1105	Rohit Bose	rohit.bose1105@example.com	PhD	2006	0.61	mentoring students, active alumni
+1106	Nikhil Agarwal	nikhil.agarwal1106@example.com	PhD	2017	0.26	career mentor
+1107	Neha Sharma	neha.sharma1107@example.com	BA	2004	0.62	regular donor
+1108	Sunil Sharma	sunil.sharma1108@example.com	BSc	2018	0.33	no past donations
+1109	Vikram Das	vikram.das1109@example.com	MTech	2024	0.3	volunteers for alumni programs
+1110	Neha Das	neha.das1110@example.com	CA	2017	0.11	occasionally donates
+1111	Priya Reddy	priya.reddy1111@example.com	MA	2016	0.74	regular donor
+1112	Sneha Mehta	sneha.mehta1112@example.com	BA	2012	0.7	occasionally donates
+1113	Manish Mishra	manish.mishra1113@example.com	MA	2001	0.64	regular donor
+1114	Vikram Desai	vikram.desai1114@example.com	MTech	2010	0.79	frequent event attendee
+1115	Raj Mehta	raj.mehta1115@example.com	BA	2016	0.19	mentoring students, active alumni
+1116	Deepak Verma	deepak.verma1116@example.com	PhD	2008	0.94	career mentor
+1117	Meera Desai	meera.desai1117@example.com	BA	2022	0.26	mentoring students, active alumni
+1118	Anita Das	anita.das1118@example.com	MBA	2004	0.8	volunteers for alumni programs
+1119	Rohit Gupta	rohit.gupta1119@example.com	MA	2020	0.55	career mentor
+1120	Sneha Pillai	sneha.pillai1120@example.com	BA	2006	0.29	no past donations
+1121	Deepak Bose	deepak.bose1121@example.com	MTech	2023	0.82	frequent event attendee
+1122	Manish Das	manish.das1122@example.com	MTech	2024	0.76	occasionally donates
+1123	Rohit Agarwal	rohit.agarwal1123@example.com	MSc	2011	0.53	occasionally donates
+1124	Pooja Khanna	pooja.khanna1124@example.com	MBA	2020	0.39	occasionally donates
+1125	Nikhil Agarwal	nikhil.agarwal1125@example.com	MA	2008	0.73	mentoring students, active alumni
+1126	Priya Das	priya.das1126@example.com	MBA	2008	0.53	occasionally donates
+1127	Kiran Sharma	kiran.sharma1127@example.com	BTech	2006	0.57	volunteers for alumni programs
+1128	Sneha Khanna	sneha.khanna1128@example.com	BTech	2016	0.19	inactive since graduation
+1129	Varun Mehta	varun.mehta1129@example.com	PhD	2001	0.84	regular donor
+1130	Raj Sharma	raj.sharma1130@example.com	BTech	2006	0.73	occasionally donates
+1131	Amit Khanna	amit.khanna1131@example.com	BTech	2006	0.02	donated in past, attends reunions
+1132	Sonia Kaur	sonia.kaur1132@example.com	BTech	2020	0.92	regular donor
+1133	Arjun Verma	arjun.verma1133@example.com	BSc	2022	0.42	career mentor
+1134	Meera Iyer	meera.iyer1134@example.com	MA	2006	0.22	inactive since graduation
+1135	Deepak Bose	deepak.bose1135@example.com	MBA	2002	0.85	occasionally donates
+1136	Neha Malhotra	neha.malhotra1136@example.com	LLB	2012	0.05	attended 10-year reunion
+1137	Kiran Patel	kiran.patel1137@example.com	BTech	2001	0.97	occasionally donates
+1138	Ravi Pillai	ravi.pillai1138@example.com	BA	2010	0.47	inactive since graduation
+1139	Neha Khanna	neha.khanna1139@example.com	MTech	2008	0.42	no past donations
+1140	Komal Patel	komal.patel1140@example.com	BTech	2005	0.51	occasionally donates
+1141	Neha Agarwal	neha.agarwal1141@example.com	BSc	2008	0.49	no past donations
+1142	Sonia Desai	sonia.desai1142@example.com	BTech	2002	0.35	volunteers for alumni programs
+1143	Kiran Verma	kiran.verma1143@example.com	PhD	2007	0.38	donated in past, attends reunions
+1144	Sunil Mehta	sunil.mehta1144@example.com	MBA	2014	0.26	attended 10-year reunion
+1145	Sneha Verma	sneha.verma1145@example.com	MTech	2021	0.68	inactive since graduation
+1146	Sneha Nair	sneha.nair1146@example.com	CA	2001	0.01	frequent event attendee
+1147	Komal Verma	komal.verma1147@example.com	CA	2018	0.8	no past donations
+1148	Neha Desai	neha.desai1148@example.com	LLB	2024	0.01	no past donations
+1149	Manish Mishra	manish.mishra1149@example.com	MTech	2010	0.18	no past donations
+1150	Komal Pillai	komal.pillai1150@example.com	MBA	2009	0.61	mentoring students, active alumni
+1151	Komal Jain	komal.jain1151@example.com	LLB	2022	0.81	attended 10-year reunion
+1152	Deepak Mehta	deepak.mehta1152@example.com	BA	2006	0.76	mentoring students, active alumni
+1153	Rohit Desai	rohit.desai1153@example.com	MBA	2020	0.42	occasionally donates
+1154	Anita Iyer	anita.iyer1154@example.com	BSc	2015	0.6	inactive since graduation
+1155	Sonia Verma	sonia.verma1155@example.com	MTech	2018	0.04	inactive since graduation
+1156	Raj Patel	raj.patel1156@example.com	BSc	2006	0.91	volunteers for alumni programs
+1157	Sunil Khanna	sunil.khanna1157@example.com	PhD	2011	0.92	no past donations
+1158	Kiran Singh	kiran.singh1158@example.com	MSc	2015	0.43	inactive since graduation
+1159	Amit Patel	amit.patel1159@example.com	MBA	2002	0.37	mentoring students, active alumni
+1160	Manish Verma	manish.verma1160@example.com	BTech	2023	0.87	mentoring students, active alumni
+1161	Priya Chopra	priya.chopra1161@example.com	CA	2011	0.83	regular donor
+1162	Raj Pillai	raj.pillai1162@example.com	BTech	2010	0.33	no past donations
+1163	Neha Singh	neha.singh1163@example.com	BSc	2003	0.73	regular donor
+1164	Sunil Verma	sunil.verma1164@example.com	LLB	2007	0.54	inactive since graduation
+1165	Deepak Desai	deepak.desai1165@example.com	MA	2007	0.64	volunteers for alumni programs
+1166	Vikram Khanna	vikram.khanna1166@example.com	LLB	2009	0.22	career mentor
+1167	Sneha Khanna	sneha.khanna1167@example.com	CA	2004	0.65	mentoring students, active alumni
+1168	Sneha Reddy	sneha.reddy1168@example.com	MA	2024	0.21	occasionally donates
+1169	Priya Verma	priya.verma1169@example.com	MA	2012	0.09	frequent event attendee
+1170	Anita Bose	anita.bose1170@example.com	LLB	2008	0.53	regular donor
+1171	Raj Nair	raj.nair1171@example.com	MTech	2000	0.12	regular donor
+1172	Kiran Jain	kiran.jain1172@example.com	MA	2010	0.53	volunteers for alumni programs
+1173	Vikram Agarwal	vikram.agarwal1173@example.com	CA	2007	0.93	mentoring students, active alumni
+1174	Arjun Chopra	arjun.chopra1174@example.com	CA	2015	0.54	inactive since graduation
+1175	Vikram Sharma	vikram.sharma1175@example.com	MA	2023	0.92	attended 10-year reunion
+1176	Komal Agarwal	komal.agarwal1176@example.com	MTech	2021	0.79	no past donations
+1177	Priya Malhotra	priya.malhotra1177@example.com	BSc	2014	0.28	inactive since graduation
+1178	Arjun Khanna	arjun.khanna1178@example.com	MA	2000	0.97	frequent event attendee
+1179	Anita Jain	anita.jain1179@example.com	LLB	2011	0.25	donated in past, attends reunions
+1180	Sneha Das	sneha.das1180@example.com	MBA	2009	0.12	frequent event attendee
+1181	Nikhil Gupta	nikhil.gupta1181@example.com	PhD	2012	0.07	inactive since graduation
+1182	Raj Reddy	raj.reddy1182@example.com	CA	2019	0.68	occasionally donates
+1183	Meera Bose	meera.bose1183@example.com	BSc	2022	0.98	frequent event attendee
+1184	Raj Reddy	raj.reddy1184@example.com	CA	2022	0.4	donated in past, attends reunions
+1185	Varun Khanna	varun.khanna1185@example.com	MSc	2008	0.19	donated in past, attends reunions
+1186	Manish Singh	manish.singh1186@example.com	CA	2014	0.28	career mentor
+1187	Priya Kaur	priya.kaur1187@example.com	MA	2002	0.6	career mentor
+1188	Ravi Nair	ravi.nair1188@example.com	MTech	2018	0.59	inactive since graduation
+1189	Deepak Das	deepak.das1189@example.com	MSc	2019	0.95	inactive since graduation
+1190	Anita Kaur	anita.kaur1190@example.com	CA	2003	0.17	inactive since graduation
+1191	Sneha Patel	sneha.patel1191@example.com	CA	2009	0.04	mentoring students, active alumni
+1192	Arjun Verma	arjun.verma1192@example.com	BA	2015	0.06	volunteers for alumni programs
+1193	Anita Mishra	anita.mishra1193@example.com	PhD	2018	0.83	donated in past, attends reunions
+1194	Arjun Bose	arjun.bose1194@example.com	CA	2014	0.01	inactive since graduation
+1195	Vikram Verma	vikram.verma1195@example.com	BSc	2004	0.47	mentoring students, active alumni
+1196	Komal Pillai	komal.pillai1196@example.com	CA	2012	0.07	inactive since graduation
+1197	Meera Chopra	meera.chopra1197@example.com	LLB	2014	0.29	attended 10-year reunion
+1198	Raj Reddy	raj.reddy1198@example.com	MSc	2005	0.43	no past donations
+1199	Priya Pillai	priya.pillai1199@example.com	CA	2007	0.09	attended 10-year reunion
+1200	Ravi Malhotra	ravi.malhotra1200@example.com	PhD	2005	0.52	frequent event attendee
+1201	Anita Iyer	anita.iyer1201@example.com	LLB	2024	0.4	occasionally donates
+1202	Deepak Mehta	deepak.mehta1202@example.com	MSc	2021	0.81	frequent event attendee
+1203	Amit Bose	amit.bose1203@example.com	MSc	2022	0.15	donated in past, attends reunion
